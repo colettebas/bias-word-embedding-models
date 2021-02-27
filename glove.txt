@@ -1,0 +1,21 @@
+The following steps were taken in order to create the GloVe word embeddings based on the documentation
+provided by the creators of GloVe:
+
+1. Create a local version of the GloVe repository with the following commands:
+$ git clone http://github.com/stanfordnlp/glove
+$ cd glove && make
+
+2. Edit the demo.sh file with the following changed:
+-Update the CORPUS file name on lines 18 and 48
+-Update the VOCAB_FILE name on line 19 to 'glove_vocab'
+-Update the SAVE_FILE name on line 23 to 'glove_vectors'
+-Update the commands on lines 46 & 47 to include '-write-header 1'
+-Update VOCAB_MIN_COUNT on line 26 to 10
+-Update VECTOR_SIZE on line 27 to 300
+-Update WINDOW_SIZE on line 29 to 6
+-Update MAX_ITER on line 28 to 10
+-Remove lines 7-16
+
+3. Run the following command:
+./demo.sh
+

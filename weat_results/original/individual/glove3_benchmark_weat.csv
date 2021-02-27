@@ -1,0 +1,11 @@
+,Target words,Attrib. words,Nt,Na,s,d,original_N,original_d,original_p
+0,Flowers vs. Insects,Pleasant vs. Unpleasant,23x2,25x2,0.4627543087117374,0.6065256595611572,32,1.35,1e-8
+1,Instruments vs. Weapons,Pleasant vs. Unpleasant,22x2,25x2,0.7251240690238774,0.899784505367279,32,1.66,1e-10
+2,European American names vs. African American names,Pleasant vs. Unpleasant,31x2,25x2,0.6995730623602867,0.920711100101471,26,1.17,1e-5
+3,European American names vs. African American names,Pleasant vs. Unpleasant,0x2,25x2,,,,,
+4,European American names vs. African American names,Pleasant vs. Unpleasant,0x2,8x2,,,,,
+5,Male names vs. Female names,Career vs. Family,8x2,8x2,0.7813271451741457,1.698233723640442,39k,0.72,< 1e-2
+6,Math vs. Arts,Male terms vs. Female terms,8x2,8x2,0.1663719192147255,0.8021724224090576,28k,0.82,< 1e-2
+7,Science vs. Arts,Male terms vs. Female terms,6x2,8x2,0.1339061502367258,0.6125988960266113,91,1.47,1e-24
+8,Mental disease vs. Physical disease,Temporary vs. Permanent,6x2,6x2,0.7735709883272648,1.4971787929534912,135,1.01,1e-3
+9,Young people’s names vs. Old people’s names,Pleasant vs. Unpleasant,8x2,7x2,0.43623841274529696,1.240680456161499,43k,1.42,< 1e-2

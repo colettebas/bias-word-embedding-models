@@ -1,0 +1,20 @@
+To evaluate word embeddings, the following project was used:
+https://github.com/kudkudak/word-embeddings-benchmarks
+
+A copy of each word embedding file was placed in the web_data folder created upon setup.
+**The first line of glove_vectors.txt that details the vocab and vector size was removed from the copy placed in web_data**
+
+Specifically, the following commands were run in the cloned repository to evaluate each embedding:
+python setup.py install
+python ./scripts/evaluate_on_all.py -f w2v_vectors_copy -o w2v_output -p word2vec
+python ./scripts/evaluate_on_all.py -f glove_vectors_copy.txt -o glove_output -p glove
+python ./scripts/evaluate_on_all.py -f fast_text_vectors_copy -o fast_text_output -p word2vec
+
+The following package was downloaded for Outlier Detection:
+http://lcl.uniroma1.it/outlier-detection/
+
+The first line of each word vector file containing the vocabulary and vector size was removed and then placed in the
+directory.
+For the Outlier Detection task, the following command was run in the directory with the corresponding vector file name:
+
+python2 scorer_outlierdetection.py 8-8-8_Dataset/ vector_file_name

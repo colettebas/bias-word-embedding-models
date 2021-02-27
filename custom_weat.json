@@ -1,0 +1,1598 @@
+[
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Unpleasant",
+   "words": [
+    "abuse",
+    "crash",
+    "filth",
+    "murder",
+    "sickness",
+    "accident",
+    "death",
+    "grief",
+    "poison",
+    "stink",
+    "assault",
+    "disaster",
+    "hatred",
+    "pollute",
+    "tragedy",
+    "divorce",
+    "jail",
+    "poverty",
+    "ugly",
+    "cancer",
+    "kill",
+    "rotten",
+    "vomit",
+    "agony",
+    "prison"
+   ]
+  },
+  "second_attribute": {
+   "name": "Pleasant",
+   "words": [
+    "caress",
+    "freedom",
+    "health",
+    "love",
+    "peace",
+    "cheer",
+    "friend",
+    "heaven",
+    "loyal",
+    "pleasure",
+    "diamond",
+    "gentle",
+    "honest",
+    "lucky",
+    "rainbow",
+    "diploma",
+    "gift",
+    "honor",
+    "miracle",
+    "sunrise",
+    "family",
+    "happy",
+    "laughter",
+    "paradise",
+    "vacation"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Liberal",
+   "words": [
+    "liberal",
+    "liberals",
+    "leftleaning",
+    "leftwing",
+    "liberalleaning",
+    "leftists",
+    "leftwingers",
+    "libertarians",
+    "farleft"
+   ]
+  },
+  "second_attribute": {
+   "name": "Conservative",
+   "words": [
+    "conservative",
+    "conservatives",
+    "rightleaning",
+    "rightwing",
+    "conservativeleaning",
+    "rightists",
+    "ultraconservative",
+    "hardright",
+    "rightwingers"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Climate",
+   "words": [
+    "climate",
+    "environment",
+    "weather",
+    "climatechange",
+    "warming",
+    "climaterelated",
+    "globalwarming",
+    "environmental"
+   ]
+  },
+  "second_attribute": {
+   "name": "Economy",
+   "words": [
+    "economy",
+    "economic",
+    "dow",
+    "gpd",
+    "economies",
+    "economics",
+    "economist"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Prochoice",
+   "words": [
+    "prochoice",
+    "proabortion",
+    "proabortionrights",
+    "reproductiverights"
+   ]
+  },
+  "second_attribute": {
+   "name": "Prolife",
+   "words": [
+    "prolife",
+    "antiabortion",
+    "antichoice",
+    "antiabortionrights",
+    "prolifers",
+    "anticontraception"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "African American names",
+   "words": [
+    "alonzo",
+    "jamel",
+    "theo",
+    "alphonse",
+    "jerome",
+    "leroy",
+    "torrance",
+    "darnell",
+    "lamar",
+    "lionel",
+    "tyree",
+    "deion",
+    "lamont",
+    "malik",
+    "terrence",
+    "tyrone",
+    "lavon",
+    "marcellus",
+    "wardell",
+    "nichelle",
+    "shereen",
+    "ebony",
+    "latisha",
+    "jasmine",
+    "tanisha",
+    "tia",
+    "lakisha",
+    "latoya",
+    "yolanda",
+    "malika",
+    "tawanda",
+    "yvette"
+   ]
+  },
+  "second_attribute": {
+   "name": "European American names",
+   "words": [
+    "adam",
+    "chip",
+    "harry",
+    "josh",
+    "roger",
+    "alan",
+    "frank",
+    "ian",
+    "justin",
+    "ryan",
+    "andrew",
+    "fred",
+    "jack",
+    "matthew",
+    "stephen",
+    "brad",
+    "greg",
+    "jed",
+    "paul",
+    "todd",
+    "brandon",
+    "hank",
+    "jonathan",
+    "peter",
+    "wilbur",
+    "amanda",
+    "courtney",
+    "heather",
+    "melanie",
+    "sara",
+    "amber",
+    "crystal",
+    "katie",
+    "meredith",
+    "shannon",
+    "betsy",
+    "donna",
+    "kristin",
+    "nancy",
+    "stephanie",
+    "ellen",
+    "lauren",
+    "peggy",
+    "colleen",
+    "emily",
+    "megan",
+    "rachel",
+    "wendy"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Peace",
+   "words": [
+    "peace",
+    "harmony",
+    "peaceful",
+    "peacefully",
+    "peaceable",
+    "nonviolent",
+    "tranquillity",
+    "harmonious",
+    "calm",
+    "passive"
+   ]
+  },
+  "second_attribute": {
+   "name": "Violence",
+   "words": [
+    "violent",
+    "bloodshed",
+    "violence",
+    "highharm",
+    "bloody",
+    "dangerous",
+    "vicious",
+    "brutal",
+    "vile",
+    "ruthless",
+    "destructive"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Pro-Immigration",
+   "words": [
+    "immigrationrights",
+    "immigrantsrights",
+    "immigrantrights",
+    "migrantrights",
+    "openborders",
+    "openborder",
+    "promigration",
+    "proopen",
+    "promigrant",
+    "proimmigration"
+   ]
+  },
+  "second_attribute": {
+   "name": "Anti-Immigration",
+   "words": [
+    "antiimmigration",
+    "antiimmigrant",
+    "antimigrant",
+    "nativist",
+    "antimigration",
+    "xenophobic",
+    "antirefugee",
+    "xenophobia",
+    "closedborders"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Deceptive",
+   "words": [
+    "untrustworthy",
+    "dishonest",
+    "deceitful",
+    "deceptive",
+    "untruthful",
+    "misleading",
+    "liar",
+    "lied"
+   ]
+  },
+  "second_attribute": {
+   "name": "Trust",
+   "words": [
+    "trust",
+    "trustworthy",
+    "reputable",
+    "trusted",
+    "truthful",
+    "authentic",
+    "honest",
+    "candid"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Evil",
+   "words": [
+    "bad",
+    "evil",
+    "terrible",
+    "horrible",
+    "awful",
+    "wicked",
+    "evildoers",
+    "evilness",
+    "unfriendly",
+    "hostile",
+    "unwelcoming"
+   ]
+  },
+  "second_attribute": {
+   "name": "Good",
+   "words": [
+    "good",
+    "kind",
+    "fantastic",
+    "great",
+    "decent",
+    "wonderful",
+    "respectable",
+    "friendly",
+    "respectful",
+    "goodness",
+    "unwelcoming"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Career",
+   "words": [
+    "executive",
+    "management",
+    "professional",
+    "corporation",
+    "salary",
+    "office",
+    "business",
+    "career"
+   ]
+  },
+  "second_attribute": {
+   "name": "Family",
+   "words": [
+    "home",
+    "parents",
+    "children",
+    "family",
+    "cousins",
+    "marriage",
+    "wedding",
+    "relatives"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Female names",
+   "words": [
+    "amy",
+    "joan",
+    "lisa",
+    "sarah",
+    "diana",
+    "kate",
+    "ann",
+    "donna"
+   ]
+  },
+  "second_attribute": {
+   "name": "Male names",
+   "words": [
+    "john",
+    "paul",
+    "mike",
+    "kevin",
+    "steve",
+    "greg",
+    "jeff",
+    "bill"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Female terms",
+   "words": [
+    "female",
+    "woman",
+    "girl",
+    "sister",
+    "she",
+    "her",
+    "hers",
+    "daughter"
+   ]
+  },
+  "second_attribute": {
+   "name": "Male terms",
+   "words": [
+    "male",
+    "man",
+    "boy",
+    "brother",
+    "he",
+    "him",
+    "his",
+    "son"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Arts",
+   "words": [
+    "poetry",
+    "art",
+    "dance",
+    "literature",
+    "novel",
+    "symphony",
+    "drama",
+    "sculpture"
+   ]
+  },
+  "second_attribute": {
+   "name": "STEM",
+   "words": [
+    "math",
+    "science",
+    "technology",
+    "engineering",
+    "scientist",
+    "equations",
+    "numbers",
+    "experiment",
+    "mathematics"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Poor",
+   "words": [
+    "poor",
+    "poorer",
+    "impoverished",
+    "lowwealth",
+    "poverty",
+    "povertystricken"
+   ]
+  },
+  "second_attribute": {
+   "name": "Rich",
+   "words": [
+    "rich",
+    "wealth",
+    "wealthy",
+    "richer",
+    "superrich",
+    "riches",
+    "ultrarich",
+    "welloff"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Progressive",
+   "words": [
+    "progressive",
+    "progressives",
+    "progressivism",
+    "nontraditional",
+    "untraditional",
+    "unconventional",
+    "unorthodox"
+   ]
+  },
+  "second_attribute": {
+   "name": "Orthodox",
+   "words": [
+    "orthodox",
+    "traditional",
+    "oldfashioned",
+    "oldschool",
+    "tradition",
+    "usual"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Transparent",
+   "words": [
+    "transparency",
+    "forthright",
+    "transparently",
+    "truthful",
+    "honest",
+    "openness",
+    "honesty"
+   ]
+  },
+  "second_attribute": {
+   "name": "Secretive",
+   "words": [
+    "secretive",
+    "opaque",
+    "shadowy",
+    "secret",
+    "secrecy",
+    "tightlipped",
+    "closemouthed"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Authoritarian",
+   "words": [
+    "authoritarian",
+    "autocratic",
+    "authoritarianism",
+    "autocrats",
+    "autocracy",
+    "autocracies",
+    "authoritarians"
+   ]
+  },
+  "second_attribute": {
+   "name": "Libertarian",
+   "words": [
+    "libertarian",
+    "libertarianism",
+    "libertarians",
+    "libertarianleaning",
+    "libertarianminded"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Fair",
+   "words": [
+    "fair",
+    "fairer",
+    "fairness",
+    "impartial",
+    "impartiality",
+    "equitable",
+    "fairminded"
+   ]
+  },
+  "second_attribute": {
+   "name": "Unfair",
+   "words": [
+    "unfair",
+    "unfairly",
+    "unfairness",
+    "partial",
+    "partiality",
+    "inequities",
+    "inequity",
+    "disparities"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Old people\u2019s names",
+   "words": [
+    "ethel",
+    "bernice",
+    "gertrude",
+    "agnes",
+    "cecil",
+    "wilbert",
+    "mortimer",
+    "edgar"
+   ]
+  },
+  "second_attribute": {
+   "name": "Young people\u2019s names",
+   "words": [
+    "tiffany",
+    "michelle",
+    "cindy",
+    "kristy",
+    "brad",
+    "eric",
+    "joey",
+    "billy"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Gun Control",
+   "words": [
+    "guncontrol",
+    "gunreform",
+    "antigunviolence",
+    "antigun",
+    "antinra",
+    "proguncontrol",
+    "antisecond"
+   ]
+  },
+  "second_attribute": {
+   "name": "Gun Rights",
+   "words": [
+    "gunrights",
+    "progun",
+    "prosecond",
+    "proguns",
+    "pronra"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "democratic",
+    "dems",
+    "dnc",
+    "democratled",
+    "democicratled",
+    "democraticcontrolled",
+    "democratcontrolled",
+    "democraticallycontrolled",
+    "democratdominated",
+    "democratheavy",
+    "democratmajority",
+    "democraticrun",
+    "democraticdominated",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "gopers",
+    "gopled",
+    "republicanled",
+    "gopcontrolled",
+    "repubs",
+    "republicancontrolled",
+    "republicanmajority",
+    "republicandominated",
+    "gopdominated",
+    "majorityrepublican",
+    "gopleaning",
+    "republicanleaning",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Internationalism",
+   "words": [
+    "internationalist",
+    "internationalism",
+    "internationalists"
+   ]
+  },
+  "second_attribute": {
+   "name": "Nationalism",
+   "words": [
+    "nationalism",
+    "nationalist",
+    "nationalists",
+    "nationalistic",
+    "ultranationalism"
+   ]
+  }
+ }
+]

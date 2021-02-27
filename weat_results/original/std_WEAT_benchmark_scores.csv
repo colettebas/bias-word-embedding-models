@@ -1,0 +1,32 @@
+European Names/African Names & Pleasant/Unpleasant,GloVe,0.14828275714973438
+European Names/African Names & Pleasant/Unpleasant,Original Finding,
+European Names/African Names & Pleasant/Unpleasant,fastText,0.017321431811487174
+European Names/African Names & Pleasant/Unpleasant,w2v,0.21653454132818648
+Flowers/Insects & Pleasant/Unpleasant,GloVe,0.1178288533078643
+Flowers/Insects & Pleasant/Unpleasant,Original Finding,
+Flowers/Insects & Pleasant/Unpleasant,fastText,0.04184288469979095
+Flowers/Insects & Pleasant/Unpleasant,w2v,0.3083655526918644
+Instruments/Weapons & Pleasant/Unpleasant,GloVe,0.08082572273495005
+Instruments/Weapons & Pleasant/Unpleasant,Original Finding,
+Instruments/Weapons & Pleasant/Unpleasant,fastText,0.016240073891457554
+Instruments/Weapons & Pleasant/Unpleasant,w2v,0.16151360543896257
+Male/Female & Career/Family,GloVe,0.028993223015470318
+Male/Female & Career/Family,Original Finding,
+Male/Female & Career/Family,fastText,0.01283849679674377
+Male/Female & Career/Family,w2v,0.044484866924799055
+Math/Arts & Male/Female,GloVe,0.19596683310287813
+Math/Arts & Male/Female,Original Finding,
+Math/Arts & Male/Female,fastText,0.06433438427466294
+Math/Arts & Male/Female,w2v,0.15935107279445673
+Mental Disease/Physical Disease & Temporary/Permanent,GloVe,0.04322459950072502
+Mental Disease/Physical Disease & Temporary/Permanent,Original Finding,
+Mental Disease/Physical Disease & Temporary/Permanent,fastText,0.08380277441708
+Mental Disease/Physical Disease & Temporary/Permanent,w2v,0.04018102340977352
+Science/Arts & Male/Female,GloVe,0.3072994795977255
+Science/Arts & Male/Female,Original Finding,
+Science/Arts & Male/Female,fastText,0.08742924567900603
+Science/Arts & Male/Female,w2v,0.15416349958284886
+Young Names/Old Names & Pleasant/Unpleasant,GloVe,0.15067142305549364
+Young Names/Old Names & Pleasant/Unpleasant,Original Finding,
+Young Names/Old Names & Pleasant/Unpleasant,fastText,0.057976615975753557
+Young Names/Old Names & Pleasant/Unpleasant,w2v,0.051231511391587214

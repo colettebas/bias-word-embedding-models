@@ -1,0 +1,316 @@
+Test,Model,Trial,Score
+Unpleasant vs. Pleasant,fastText,1,0.1702
+Liberal vs. Conservative,fastText,1,0.9453
+Climate vs. Economy,fastText,1,-0.0565
+Prochoice vs. Prolife,fastText,1,0.796
+African American names vs. European American names,fastText,1,0.2664
+Peace vs. Violence,fastText,1,0.559
+Pro-Immigration vs. Anti-Immigration,fastText,1,-0.1262
+Deceptive vs. Trust,fastText,1,-0.3967
+Evil vs. Good,fastText,1,0.1213
+Career vs. Family,fastText,1,0.5143
+Female names vs. Male names,fastText,1,1.35
+Female terms vs. Male terms,fastText,1,1.1829
+Arts vs. STEM,fastText,1,-0.262
+Poor vs. Rich,fastText,1,0.0282
+Progressive vs. Orthodox,fastText,1,0.5796
+Transparent vs. Secretive,fastText,1,0.2332
+Authoritarian vs. Libertarian,fastText,1,0.134
+Fair vs. Unfair,fastText,1,0.3009
+Old people’s names vs. Young people’s names,fastText,1,0.713
+Gun Control vs. Gun Rights,fastText,1,0.8132
+Internationalism vs. Nationalism,fastText,1,0.639
+Unpleasant vs. Pleasant,fastText,2,0.1473
+Liberal vs. Conservative,fastText,2,0.9988
+Climate vs. Economy,fastText,2,-0.1317
+Prochoice vs. Prolife,fastText,2,0.7655
+African American names vs. European American names,fastText,2,0.2392
+Peace vs. Violence,fastText,2,0.6176
+Pro-Immigration vs. Anti-Immigration,fastText,2,0.1567
+Deceptive vs. Trust,fastText,2,-0.4394
+Evil vs. Good,fastText,2,0.0423
+Career vs. Family,fastText,2,0.4557
+Female names vs. Male names,fastText,2,1.4114
+Female terms vs. Male terms,fastText,2,1.1342
+Arts vs. STEM,fastText,2,-0.1066
+Poor vs. Rich,fastText,2,0.0522
+Progressive vs. Orthodox,fastText,2,0.6174
+Transparent vs. Secretive,fastText,2,0.1656
+Authoritarian vs. Libertarian,fastText,2,0.08
+Fair vs. Unfair,fastText,2,0.3532
+Old people’s names vs. Young people’s names,fastText,2,0.6216
+Gun Control vs. Gun Rights,fastText,2,0.6963
+Internationalism vs. Nationalism,fastText,2,0.7239
+Unpleasant vs. Pleasant,fastText,3,0.2287
+Liberal vs. Conservative,fastText,3,1.0506
+Climate vs. Economy,fastText,3,-0.1424
+Prochoice vs. Prolife,fastText,3,0.9207
+African American names vs. European American names,fastText,3,0.351
+Peace vs. Violence,fastText,3,0.6008
+Pro-Immigration vs. Anti-Immigration,fastText,3,0.0675
+Deceptive vs. Trust,fastText,3,-0.3811
+Evil vs. Good,fastText,3,0.0564
+Career vs. Family,fastText,3,0.3646
+Female names vs. Male names,fastText,3,1.4117
+Female terms vs. Male terms,fastText,3,1.1466
+Arts vs. STEM,fastText,3,-0.1234
+Poor vs. Rich,fastText,3,0.0323
+Progressive vs. Orthodox,fastText,3,0.6755
+Transparent vs. Secretive,fastText,3,0.2444
+Authoritarian vs. Libertarian,fastText,3,0.0534
+Fair vs. Unfair,fastText,3,0.289
+Old people’s names vs. Young people’s names,fastText,3,0.7163
+Gun Control vs. Gun Rights,fastText,3,0.6781
+Internationalism vs. Nationalism,fastText,3,0.693
+Unpleasant vs. Pleasant,fastText,4,0.2202
+Liberal vs. Conservative,fastText,4,1.0421
+Climate vs. Economy,fastText,4,-0.1233
+Prochoice vs. Prolife,fastText,4,0.929
+African American names vs. European American names,fastText,4,0.2648
+Peace vs. Violence,fastText,4,0.747
+Pro-Immigration vs. Anti-Immigration,fastText,4,0.125
+Deceptive vs. Trust,fastText,4,-0.3581
+Evil vs. Good,fastText,4,0.0693
+Career vs. Family,fastText,4,0.4577
+Female names vs. Male names,fastText,4,1.4198
+Female terms vs. Male terms,fastText,4,1.3096
+Arts vs. STEM,fastText,4,-0.117
+Poor vs. Rich,fastText,4,0.0326
+Progressive vs. Orthodox,fastText,4,0.6376
+Transparent vs. Secretive,fastText,4,0.2367
+Authoritarian vs. Libertarian,fastText,4,0.0434
+Fair vs. Unfair,fastText,4,0.3069
+Old people’s names vs. Young people’s names,fastText,4,0.6793
+Gun Control vs. Gun Rights,fastText,4,0.5981
+Internationalism vs. Nationalism,fastText,4,0.8049
+Unpleasant vs. Pleasant,fastText,5,0.1377
+Liberal vs. Conservative,fastText,5,0.9745
+Climate vs. Economy,fastText,5,0.0316
+Prochoice vs. Prolife,fastText,5,0.8553
+African American names vs. European American names,fastText,5,0.2647
+Peace vs. Violence,fastText,5,0.5988
+Pro-Immigration vs. Anti-Immigration,fastText,5,0.102
+Deceptive vs. Trust,fastText,5,-0.3552
+Evil vs. Good,fastText,5,0.1515
+Career vs. Family,fastText,5,0.4426
+Female names vs. Male names,fastText,5,1.3957
+Female terms vs. Male terms,fastText,5,1.1302
+Arts vs. STEM,fastText,5,-0.1345
+Poor vs. Rich,fastText,5,-0.0163
+Progressive vs. Orthodox,fastText,5,0.6032
+Transparent vs. Secretive,fastText,5,0.2285
+Authoritarian vs. Libertarian,fastText,5,0.0532
+Fair vs. Unfair,fastText,5,0.3943
+Old people’s names vs. Young people’s names,fastText,5,0.6442
+Gun Control vs. Gun Rights,fastText,5,0.7401
+Internationalism vs. Nationalism,fastText,5,0.7283
+Unpleasant vs. Pleasant,w2v,1,0.3257
+Liberal vs. Conservative,w2v,1,1.4137
+Climate vs. Economy,w2v,1,1.0476
+Prochoice vs. Prolife,w2v,1,0.8425
+African American names vs. European American names,w2v,1,-0.1073
+Peace vs. Violence,w2v,1,-0.233
+Pro-Immigration vs. Anti-Immigration,w2v,1,0.6811
+Deceptive vs. Trust,w2v,1,0.1704
+Evil vs. Good,w2v,1,0.2521
+Career vs. Family,w2v,1,-0.3332
+Female names vs. Male names,w2v,1,0.8089
+Female terms vs. Male terms,w2v,1,0.2215
+Arts vs. STEM,w2v,1,0.0243
+Poor vs. Rich,w2v,1,-0.2938
+Progressive vs. Orthodox,w2v,1,-0.7004
+Transparent vs. Secretive,w2v,1,0.2441
+Authoritarian vs. Libertarian,w2v,1,1.0676
+Fair vs. Unfair,w2v,1,0.384
+Old people’s names vs. Young people’s names,w2v,1,0.1596
+Gun Control vs. Gun Rights,w2v,1,1.185
+Internationalism vs. Nationalism,w2v,1,0.2272
+Unpleasant vs. Pleasant,w2v,2,0.4179
+Liberal vs. Conservative,w2v,2,1.5072
+Climate vs. Economy,w2v,2,1.0944
+Prochoice vs. Prolife,w2v,2,0.9862
+African American names vs. European American names,w2v,2,-0.1529
+Peace vs. Violence,w2v,2,-0.3315
+Pro-Immigration vs. Anti-Immigration,w2v,2,0.7223
+Deceptive vs. Trust,w2v,2,0.2692
+Evil vs. Good,w2v,2,0.4746
+Career vs. Family,w2v,2,-0.4074
+Female names vs. Male names,w2v,2,0.9306
+Female terms vs. Male terms,w2v,2,0.3201
+Arts vs. STEM,w2v,2,0.1658
+Poor vs. Rich,w2v,2,-0.294
+Progressive vs. Orthodox,w2v,2,-0.6453
+Transparent vs. Secretive,w2v,2,0.2213
+Authoritarian vs. Libertarian,w2v,2,1.0063
+Fair vs. Unfair,w2v,2,0.2248
+Old people’s names vs. Young people’s names,w2v,2,0.339
+Gun Control vs. Gun Rights,w2v,2,1.2568
+Internationalism vs. Nationalism,w2v,2,0.2052
+Unpleasant vs. Pleasant,w2v,3,0.2453
+Liberal vs. Conservative,w2v,3,1.4108
+Climate vs. Economy,w2v,3,1.0067
+Prochoice vs. Prolife,w2v,3,0.8328
+African American names vs. European American names,w2v,3,-0.1309
+Peace vs. Violence,w2v,3,-0.1177
+Pro-Immigration vs. Anti-Immigration,w2v,3,0.6423
+Deceptive vs. Trust,w2v,3,0.2756
+Evil vs. Good,w2v,3,0.38
+Career vs. Family,w2v,3,-0.3581
+Female names vs. Male names,w2v,3,0.8185
+Female terms vs. Male terms,w2v,3,0.4085
+Arts vs. STEM,w2v,3,0.4153
+Poor vs. Rich,w2v,3,-0.2776
+Progressive vs. Orthodox,w2v,3,-0.7616
+Transparent vs. Secretive,w2v,3,0.2212
+Authoritarian vs. Libertarian,w2v,3,1.0824
+Fair vs. Unfair,w2v,3,0.3834
+Old people’s names vs. Young people’s names,w2v,3,0.2404
+Gun Control vs. Gun Rights,w2v,3,1.3123
+Internationalism vs. Nationalism,w2v,3,0.2847
+Unpleasant vs. Pleasant,w2v,4,0.3177
+Liberal vs. Conservative,w2v,4,1.3989
+Climate vs. Economy,w2v,4,1.0076
+Prochoice vs. Prolife,w2v,4,0.7492
+African American names vs. European American names,w2v,4,-0.045
+Peace vs. Violence,w2v,4,-0.3081
+Pro-Immigration vs. Anti-Immigration,w2v,4,0.4624
+Deceptive vs. Trust,w2v,4,0.2142
+Evil vs. Good,w2v,4,0.3893
+Career vs. Family,w2v,4,-0.2974
+Female names vs. Male names,w2v,4,0.7917
+Female terms vs. Male terms,w2v,4,0.5032
+Arts vs. STEM,w2v,4,0.3894
+Poor vs. Rich,w2v,4,-0.2482
+Progressive vs. Orthodox,w2v,4,-0.6815
+Transparent vs. Secretive,w2v,4,0.2989
+Authoritarian vs. Libertarian,w2v,4,1.1167
+Fair vs. Unfair,w2v,4,0.3898
+Old people’s names vs. Young people’s names,w2v,4,0.2104
+Gun Control vs. Gun Rights,w2v,4,1.2148
+Internationalism vs. Nationalism,w2v,4,0.2654
+Unpleasant vs. Pleasant,w2v,5,0.2685
+Liberal vs. Conservative,w2v,5,1.4157
+Climate vs. Economy,w2v,5,0.7045
+Prochoice vs. Prolife,w2v,5,0.8885
+African American names vs. European American names,w2v,5,-0.0806
+Peace vs. Violence,w2v,5,-0.2315
+Pro-Immigration vs. Anti-Immigration,w2v,5,0.5861
+Deceptive vs. Trust,w2v,5,0.2457
+Evil vs. Good,w2v,5,0.3603
+Career vs. Family,w2v,5,-0.4237
+Female names vs. Male names,w2v,5,0.7704
+Female terms vs. Male terms,w2v,5,0.2775
+Arts vs. STEM,w2v,5,0.3308
+Poor vs. Rich,w2v,5,-0.2709
+Progressive vs. Orthodox,w2v,5,-0.7028
+Transparent vs. Secretive,w2v,5,0.1527
+Authoritarian vs. Libertarian,w2v,5,1.1328
+Fair vs. Unfair,w2v,5,0.1626
+Old people’s names vs. Young people’s names,w2v,5,0.2538
+Gun Control vs. Gun Rights,w2v,5,1.2274
+Internationalism vs. Nationalism,w2v,5,0.3646
+Unpleasant vs. Pleasant,GloVe,1,0.2332
+Liberal vs. Conservative,GloVe,1,0.8766
+Climate vs. Economy,GloVe,1,0.6738
+Prochoice vs. Prolife,GloVe,1,0.5446
+African American names vs. European American names,GloVe,1,0.0562
+Peace vs. Violence,GloVe,1,0.4007
+Pro-Immigration vs. Anti-Immigration,GloVe,1,0.1596
+Deceptive vs. Trust,GloVe,1,-0.2658
+Evil vs. Good,GloVe,1,0.1078
+Career vs. Family,GloVe,1,-0.1482
+Female names vs. Male names,GloVe,1,0.5187
+Female terms vs. Male terms,GloVe,1,0.4797
+Arts vs. STEM,GloVe,1,0.0033
+Poor vs. Rich,GloVe,1,0.1264
+Progressive vs. Orthodox,GloVe,1,-0.1586
+Transparent vs. Secretive,GloVe,1,0.1089
+Authoritarian vs. Libertarian,GloVe,1,0.8498
+Fair vs. Unfair,GloVe,1,-0.0445
+Old people’s names vs. Young people’s names,GloVe,1,0.1439
+Gun Control vs. Gun Rights,GloVe,1,0.6271
+Internationalism vs. Nationalism,GloVe,1,0.7491
+Unpleasant vs. Pleasant,GloVe,2,0.3692
+Liberal vs. Conservative,GloVe,2,0.8944
+Climate vs. Economy,GloVe,2,0.1691
+Prochoice vs. Prolife,GloVe,2,0.767
+African American names vs. European American names,GloVe,2,0.1113
+Peace vs. Violence,GloVe,2,0.4539
+Pro-Immigration vs. Anti-Immigration,GloVe,2,0.3503
+Deceptive vs. Trust,GloVe,2,-0.199
+Evil vs. Good,GloVe,2,0.0499
+Career vs. Family,GloVe,2,-0.1404
+Female names vs. Male names,GloVe,2,0.4477
+Female terms vs. Male terms,GloVe,2,0.7496
+Arts vs. STEM,GloVe,2,-0.09
+Poor vs. Rich,GloVe,2,0.3003
+Progressive vs. Orthodox,GloVe,2,0.072
+Transparent vs. Secretive,GloVe,2,0.1871
+Authoritarian vs. Libertarian,GloVe,2,0.8872
+Fair vs. Unfair,GloVe,2,-0.1963
+Old people’s names vs. Young people’s names,GloVe,2,0.2789
+Gun Control vs. Gun Rights,GloVe,2,0.5928
+Internationalism vs. Nationalism,GloVe,2,0.9401
+Unpleasant vs. Pleasant,GloVe,3,0.0645
+Liberal vs. Conservative,GloVe,3,0.9159
+Climate vs. Economy,GloVe,3,0.4926
+Prochoice vs. Prolife,GloVe,3,0.147
+African American names vs. European American names,GloVe,3,0.1212
+Peace vs. Violence,GloVe,3,0.5233
+Pro-Immigration vs. Anti-Immigration,GloVe,3,0.2276
+Deceptive vs. Trust,GloVe,3,0.1587
+Evil vs. Good,GloVe,3,0.1813
+Career vs. Family,GloVe,3,0.0869
+Female names vs. Male names,GloVe,3,0.5086
+Female terms vs. Male terms,GloVe,3,0.6137
+Arts vs. STEM,GloVe,3,-0.0136
+Poor vs. Rich,GloVe,3,0.1809
+Progressive vs. Orthodox,GloVe,3,0.1785
+Transparent vs. Secretive,GloVe,3,0.1645
+Authoritarian vs. Libertarian,GloVe,3,0.9615
+Fair vs. Unfair,GloVe,3,-0.2273
+Old people’s names vs. Young people’s names,GloVe,3,0.2572
+Gun Control vs. Gun Rights,GloVe,3,0.7245
+Internationalism vs. Nationalism,GloVe,3,0.8225
+Unpleasant vs. Pleasant,GloVe,4,0.19
+Liberal vs. Conservative,GloVe,4,1.1113
+Climate vs. Economy,GloVe,4,0.2606
+Prochoice vs. Prolife,GloVe,4,0.7584
+African American names vs. European American names,GloVe,4,0.1128
+Peace vs. Violence,GloVe,4,0.3348
+Pro-Immigration vs. Anti-Immigration,GloVe,4,0.2865
+Deceptive vs. Trust,GloVe,4,0.0709
+Evil vs. Good,GloVe,4,0.0413
+Career vs. Family,GloVe,4,-0.0425
+Female names vs. Male names,GloVe,4,0.4895
+Female terms vs. Male terms,GloVe,4,0.4582
+Arts vs. STEM,GloVe,4,0.0417
+Poor vs. Rich,GloVe,4,0.2295
+Progressive vs. Orthodox,GloVe,4,0.1699
+Transparent vs. Secretive,GloVe,4,-0.1062
+Authoritarian vs. Libertarian,GloVe,4,0.8454
+Fair vs. Unfair,GloVe,4,-0.2627
+Old people’s names vs. Young people’s names,GloVe,4,0.3951
+Gun Control vs. Gun Rights,GloVe,4,0.7841
+Internationalism vs. Nationalism,GloVe,4,0.7876
+Unpleasant vs. Pleasant,GloVe,5,0.1253
+Liberal vs. Conservative,GloVe,5,0.9512
+Climate vs. Economy,GloVe,5,0.4669
+Prochoice vs. Prolife,GloVe,5,0.5504
+African American names vs. European American names,GloVe,5,0.1094
+Peace vs. Violence,GloVe,5,0.5985
+Pro-Immigration vs. Anti-Immigration,GloVe,5,0.2658
+Deceptive vs. Trust,GloVe,5,-0.087
+Evil vs. Good,GloVe,5,-0.0129
+Career vs. Family,GloVe,5,0.104
+Female names vs. Male names,GloVe,5,0.4935
+Female terms vs. Male terms,GloVe,5,0.465
+Arts vs. STEM,GloVe,5,-0.09
+Poor vs. Rich,GloVe,5,0.1856
+Progressive vs. Orthodox,GloVe,5,-0.2231
+Transparent vs. Secretive,GloVe,5,0.1526
+Authoritarian vs. Libertarian,GloVe,5,0.8584
+Fair vs. Unfair,GloVe,5,-0.0433
+Old people’s names vs. Young people’s names,GloVe,5,0.0866
+Gun Control vs. Gun Rights,GloVe,5,0.53
+Internationalism vs. Nationalism,GloVe,5,0.6684
