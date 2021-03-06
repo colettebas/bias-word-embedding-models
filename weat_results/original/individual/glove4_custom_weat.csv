@@ -1,22 +1,23 @@
-,Target words,Attrib. words,Nt,Na,s,d
-0,Democrat vs. Republican,Unpleasant vs. Pleasant,16x2,25x2,0.0802,0.19
-1,Democrat vs. Republican,Liberal vs. Conservative,16x2,9x2,0.9262,1.1113
-2,Democrat vs. Republican,Climate vs. Economy,16x2,7x2,0.1505,0.2606
-3,Democrat vs. Republican,Prochoice vs. Prolife,16x2,4x2,0.4781,0.7584
-4,Democrat vs. Republican,African American names vs. European American names,16x2,32x2,0.2313,0.1128
-5,Democrat vs. Republican,Peace vs. Violence,16x2,10x2,0.2579,0.3348
-6,Democrat vs. Republican,Pro-Immigration vs. Anti-Immigration,16x2,9x2,0.2613,0.2865
-7,Democrat vs. Republican,Deceptive vs. Trust,16x2,8x2,0.0272,0.0709
-8,Democrat vs. Republican,Evil vs. Good,16x2,11x2,0.0419,0.0413
-9,Democrat vs. Republican,Career vs. Family,16x2,8x2,-0.0343,-0.0425
-10,Democrat vs. Republican,Female names vs. Male names,16x2,8x2,0.8006,0.4895
-11,Democrat vs. Republican,Female terms vs. Male terms,16x2,8x2,0.3316,0.4582
-12,Democrat vs. Republican,Arts vs. STEM,16x2,8x2,0.0323,0.0417
-13,Democrat vs. Republican,Poor vs. Rich,16x2,6x2,0.2684,0.2295
-14,Democrat vs. Republican,Progressive vs. Orthodox,16x2,6x2,0.1541,0.1699
-15,Democrat vs. Republican,Transparent vs. Secretive,16x2,7x2,-0.1018,-0.1062
-16,Democrat vs. Republican,Authoritarian vs. Libertarian,16x2,5x2,0.8935,0.8454
-17,Democrat vs. Republican,Fair vs. Unfair,16x2,7x2,-0.189,-0.2627
-18,Democrat vs. Republican,Old people’s names vs. Young people’s names,16x2,8x2,0.4787,0.3951
-19,Democrat vs. Republican,Gun Control vs. Gun Rights,16x2,5x2,0.5176,0.7841
-20,Democrat vs. Republican,Internationalism vs. Nationalism,16x2,3x2,0.853,0.7876
+,Target words,Attrib. words,Nt,Na,s,d,p
+0,Democrat vs. Republican,Unpleasant vs. Pleasant,10x2,10x2,0.1813,0.5375,1.2e-01
+1,Democrat vs. Republican,Liberal vs. Conservative,10x2,9x2,0.8388,1.4604,7.0e-05
+2,Democrat vs. Republican,Climate Change Activist vs. Climate Change Denier,10x2,10x2,0.1254,0.2536,3.0e-01
+3,Democrat vs. Republican,Trickle Up Economics vs. Trickle Down Economics,10x2,8x2,0.1581,0.4778,1.5e-01
+4,Democrat vs. Republican,Prochoice vs. Prolife,10x2,5x2,0.3087,0.5384,1.2e-01
+5,Democrat vs. Republican,Lazy vs. Hard Working,10x2,8x2,0.5417,0.3707,2.1e-01
+6,Democrat vs. Republican,Peace vs. War,10x2,10x2,0.3014,0.3149,2.5e-01
+7,Democrat vs. Republican,Pro-Immigration vs. Anti-Immigration,10x2,10x2,-0.1734,-0.4831,8.5e-01
+8,Democrat vs. Republican,Trust vs. Deceptive,10x2,8x2,-0.1113,-0.4177,8.1e-01
+9,Democrat vs. Republican,Evil vs. Good,10x2,10x2,0.1904,0.2889,2.7e-01
+10,Democrat vs. Republican,Family vs. Career,10x2,8x2,0.4319,0.8943,2.2e-02
+11,Democrat vs. Republican,Female names vs. Male names,10x2,10x2,0.8136,0.9366,1.9e-02
+12,Democrat vs. Republican,Female terms vs. Male terms,10x2,10x2,0.3343,0.5673,1.1e-01
+13,Democrat vs. Republican,STEM vs. Arts,10x2,9x2,-0.0476,-0.1019,5.9e-01
+14,Democrat vs. Republican,Rich vs. Poor,10x2,8x2,-0.1233,-0.2029,6.7e-01
+15,Democrat vs. Republican,Progressive vs. Moderate,10x2,7x2,0.4675,0.7653,4.8e-02
+16,Democrat vs. Republican,Transparent vs. Secretive,10x2,7x2,0.0854,0.133,3.9e-01
+17,Democrat vs. Republican,Atheist vs. Evangelical,10x2,8x2,0.6453,0.5414,1.2e-01
+18,Democrat vs. Republican,Fair vs. Unfair,10x2,7x2,0.0368,0.1,4.2e-01
+19,Democrat vs. Republican,Old people’s names vs. Young people’s names,10x2,8x2,0.3057,0.4076,1.9e-01
+20,Democrat vs. Republican,Gun Control vs. Gun Rights,10x2,10x2,0.3221,1.0665,7.6e-03
+21,Democrat vs. Republican,Northern States vs. Southern States,10x2,8x2,0.8976,1.1874,3.6e-03

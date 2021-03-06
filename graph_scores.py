@@ -90,16 +90,17 @@ def plot_WEAT_benchmark_scores(input, output):
     scores.groupby(['Test', 'Model']).mean()['Score'].to_csv('mean_WEAT_benchmark_scores.csv')
     scores.groupby(['Test', 'Model']).std()['Score'].to_csv('std_WEAT_benchmark_scores.csv')
 
-def plot_WEAT_political_scores(input, output_graph1, output_graph2, mean_output, std_output):
+def plot_WEAT_political_scores(input, output_graph1, output_graph2, mean_output, std_output, pvalue_mean_output,
+                               pvalue_std_output):
     sns.set_context('paper')
 
     # load dataset
     scores = pd.read_csv(input)
 
     # create plot
-    labels = ['Unpleasant vs. Pleasant', 'African American names vs. European American names', 'Evil vs. Good',
-              'Career vs. Family', 'Female names vs. Male names', 'Female terms vs. Male terms',
-              'Arts vs. STEM', 'Poor vs. Rich', 'Old people’s names vs. Young people’s names']
+    labels = ['Unpleasant vs. Pleasant', 'Lazy vs. Hard Working', 'Evil vs. Good',
+              'Family vs. Career', 'Female names vs. Male names', 'Female terms vs. Male terms',
+              'STEM vs. Arts', 'Rich vs. Poor', 'Old people’s names vs. Young people’s names']
     generic_plot = sns.barplot(x = 'Test', y = 'Score', hue = 'Model', data = scores,
                 order = labels,
                 palette = 'hls',
@@ -118,11 +119,12 @@ def plot_WEAT_political_scores(input, output_graph1, output_graph2, mean_output,
     plt.clf()
 
     # create plot
-    labels = ['Liberal vs. Conservative', 'Climate vs. Economy',
-              'Prochoice vs. Prolife', 'Peace vs. Violence', 'Pro-Immigration vs. Anti-Immigration',
-              'Deceptive vs. Trust', 'Progressive vs. Orthodox', 'Transparent vs. Secretive',
-              'Authoritarian vs. Libertarian', 'Fair vs. Unfair', 'Gun Control vs. Gun Rights',
-              'Internationalism vs. Nationalism']
+    labels = ['Liberal vs. Conservative', 'Climate Change Activist vs. Climate Change Denier',
+              'Prochoice vs. Prolife', 'Peace vs. War', 'Pro-Immigration vs. Anti-Immigration',
+              'Trust vs. Deceptive', 'Progressive vs. Moderate', 'Transparent vs. Secretive',
+              'Atheist vs. Evangelical', 'Gun Control vs. Gun Rights',
+              'Northern States vs. Southern States', 'Fair vs. Unfair',
+              'Trickle Up Economics vs. Trickle Down Economics']
     specific_plot = sns.barplot(x = 'Test', y = 'Score', hue = 'Model', data = scores,
                 order = labels,
                 palette = 'hls',
@@ -142,6 +144,8 @@ def plot_WEAT_political_scores(input, output_graph1, output_graph2, mean_output,
 
     scores.groupby(['Test', 'Model']).mean()['Score'].to_csv(mean_output)
     scores.groupby(['Test', 'Model']).std()['Score'].to_csv(std_output)
+    scores.groupby(['Test', 'Model']).mean()['pValue'].to_csv(pvalue_mean_output)
+    scores.groupby(['Test', 'Model']).std()['pValue'].to_csv(pvalue_std_output)
 
 
 def main():
@@ -150,7 +154,9 @@ def main():
                                'weat_results/original/WEAT_political_plot_generic',
                                'weat_results/original/WEAT_political_plot_specific',
                                'weat_results/original/mean_WEAT_political_scores.csv',
-                               'weat_results/original/std_WEAT_political_scores.csv')
+                               'weat_results/original/std_WEAT_political_scores.csv',
+                               'weat_results/original/mean_WEAT_political_pvalues.csv',
+                               'weat_results/original/std_WEAT_political_pvalues.csv')
 
 if __name__ == "__main__":
     main()

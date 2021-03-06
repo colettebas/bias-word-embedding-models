@@ -5,7 +5,7 @@ def main():
     return
 
 def most_similar(model, target):
-    return model.most_similar(positive = target)
+    return model.most_similar(positive = target, topn=20)
 
 def convert_to_w2v_format(w2v_in, fast_in, w2v_name, fast_name):
     print('loading fastText')

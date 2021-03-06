@@ -5,19 +5,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -29,78 +22,41 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
    "name": "Unpleasant",
    "words": [
-    "abuse",
-    "crash",
-    "filth",
-    "murder",
     "sickness",
-    "accident",
     "death",
-    "grief",
     "poison",
     "stink",
-    "assault",
     "disaster",
-    "hatred",
-    "pollute",
     "tragedy",
-    "divorce",
     "jail",
-    "poverty",
-    "ugly",
-    "cancer",
-    "kill",
     "rotten",
     "vomit",
-    "agony",
-    "prison"
+    "agony"
    ]
   },
   "second_attribute": {
    "name": "Pleasant",
    "words": [
-    "caress",
-    "freedom",
-    "health",
     "love",
     "peace",
     "cheer",
-    "friend",
-    "heaven",
-    "loyal",
     "pleasure",
-    "diamond",
-    "gentle",
-    "honest",
     "lucky",
-    "rainbow",
-    "diploma",
     "gift",
-    "honor",
     "miracle",
-    "sunrise",
-    "family",
     "happy",
     "laughter",
-    "paradise",
     "vacation"
    ]
   }
@@ -111,19 +67,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -135,18 +84,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -185,19 +127,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -209,44 +144,42 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
-   "name": "Climate",
+   "name": "Climate Change Activist",
    "words": [
     "climate",
     "environment",
-    "weather",
     "climatechange",
-    "warming",
-    "climaterelated",
-    "globalwarming",
-    "environmental"
+    "humancaused",
+    "zeroemissions",
+    "carbonfree",
+    "renewableenergy",
+    "greenenergy",
+    "proenvironment",
+    "antifossil"
    ]
   },
   "second_attribute": {
-   "name": "Economy",
+   "name": "Climate Change Denier",
    "words": [
-    "economy",
-    "economic",
-    "dow",
-    "gpd",
-    "economies",
-    "economics",
-    "economist"
+    "anticlimate",
+    "denialists",
+    "antiscience",
+    "denier",
+    "deniers",
+    "profossilfuel",
+    "antienvironment",
+    "antirenewables",
+    "coalfriendly",
+    "propolluter"
    ]
   }
  },
@@ -256,19 +189,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -280,18 +206,69 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
+    "deepred"
+   ]
+  },
+  "first_attribute": {
+   "name": "Trickle Up Economics",
+   "words": [
+    "trickleup",
+    "stimulus",
+    "middleclass",
+    "keynesian",
+    "stimulative",
+    "redistributive",
+    "incentives",
+    "demandside"
+   ]
+  },
+  "second_attribute": {
+   "name": "Trickle Down Economics",
+   "words": [
+    "supplyside",
+    "trickledown",
+    "investors",
+    "businessfriendly",
+    "probusiness",
+    "proenterprise",
+    "proinvestment",
+    "deregulation"
+   ]
+  }
+ },
+ {
+  "first_target": {
+   "name": "Democrat",
+   "words": [
+    "democrat",
+    "democrats",
+    "dems",
+    "dnc",
+    "democratled",
+    "democratcontrolled",
+    "democratmajority",
+    "democraticrun",
+    "democraticheavy",
+    "deepblue"
+   ]
+  },
+  "second_target": {
+   "name": "Republican",
+   "words": [
+    "republican",
+    "republicans",
+    "rnc",
+    "gop",
+    "republicanled",
+    "gopcontrolled",
+    "republicanmajority",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -301,7 +278,8 @@
     "prochoice",
     "proabortion",
     "proabortionrights",
-    "reproductiverights"
+    "reproductiverights",
+    "prochoicers"
    ]
   },
   "second_attribute": {
@@ -311,8 +289,7 @@
     "antiabortion",
     "antichoice",
     "antiabortionrights",
-    "prolifers",
-    "anticontraception"
+    "prolifers"
    ]
   }
  },
@@ -322,19 +299,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -346,109 +316,38 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
-   "name": "African American names",
+   "name": "Lazy",
    "words": [
-    "alonzo",
-    "jamel",
-    "theo",
-    "alphonse",
-    "jerome",
-    "leroy",
-    "torrance",
-    "darnell",
-    "lamar",
-    "lionel",
-    "tyree",
-    "deion",
-    "lamont",
-    "malik",
-    "terrence",
-    "tyrone",
-    "lavon",
-    "marcellus",
-    "wardell",
-    "nichelle",
-    "shereen",
-    "ebony",
-    "latisha",
-    "jasmine",
-    "tanisha",
-    "tia",
-    "lakisha",
-    "latoya",
-    "yolanda",
-    "malika",
-    "tawanda",
-    "yvette"
+    "lazy",
+    "workshy",
+    "overentitled",
+    "slacker",
+    "layabouts",
+    "slothful",
+    "demotivated",
+    "indolent"
    ]
   },
   "second_attribute": {
-   "name": "European American names",
+   "name": "Hard Working",
    "words": [
-    "adam",
-    "chip",
-    "harry",
-    "josh",
-    "roger",
-    "alan",
-    "frank",
-    "ian",
-    "justin",
-    "ryan",
-    "andrew",
-    "fred",
-    "jack",
-    "matthew",
-    "stephen",
-    "brad",
-    "greg",
-    "jed",
-    "paul",
-    "todd",
-    "brandon",
-    "hank",
-    "jonathan",
-    "peter",
-    "wilbur",
-    "amanda",
-    "courtney",
-    "heather",
-    "melanie",
-    "sara",
-    "amber",
-    "crystal",
-    "katie",
-    "meredith",
-    "shannon",
-    "betsy",
-    "donna",
-    "kristin",
-    "nancy",
-    "stephanie",
-    "ellen",
-    "lauren",
-    "peggy",
-    "colleen",
-    "emily",
-    "megan",
-    "rachel",
-    "wendy"
+    "hardworking",
+    "motivated",
+    "driven",
+    "laborious",
+    "diligent",
+    "enterprising",
+    "ambitious",
+    "resourceful"
    ]
   }
  },
@@ -458,19 +357,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -482,18 +374,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -513,19 +398,18 @@
    ]
   },
   "second_attribute": {
-   "name": "Violence",
+   "name": "War",
    "words": [
-    "violent",
-    "bloodshed",
+    "war",
+    "wars",
+    "conflict",
+    "warfare",
     "violence",
-    "highharm",
-    "bloody",
-    "dangerous",
-    "vicious",
-    "brutal",
-    "vile",
-    "ruthless",
-    "destructive"
+    "battle",
+    "battlefront",
+    "combat",
+    "fight",
+    "military"
    ]
   }
  },
@@ -535,19 +419,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -559,48 +436,42 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
    "name": "Pro-Immigration",
    "words": [
-    "immigrationrights",
-    "immigrantsrights",
+    "proimmigration",
     "immigrantrights",
-    "migrantrights",
+    "antiice",
     "openborders",
-    "openborder",
-    "promigration",
-    "proopen",
+    "naturalization",
+    "immigrationreform",
     "promigrant",
-    "proimmigration"
+    "asylumseekers",
+    "proamnesty",
+    "dreamers"
    ]
   },
   "second_attribute": {
    "name": "Anti-Immigration",
    "words": [
     "antiimmigration",
-    "antiimmigrant",
-    "antimigrant",
-    "nativist",
-    "antimigration",
-    "xenophobic",
+    "bordercrossers",
+    "ice",
     "antirefugee",
-    "xenophobia",
-    "closedborders"
+    "proamericans",
+    "closedborders",
+    "restrictionist",
+    "antiamnesty",
+    "deportation",
+    "borderwall"
    ]
   }
  },
@@ -610,19 +481,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -634,35 +498,15 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
-   "name": "Deceptive",
-   "words": [
-    "untrustworthy",
-    "dishonest",
-    "deceitful",
-    "deceptive",
-    "untruthful",
-    "misleading",
-    "liar",
-    "lied"
-   ]
-  },
-  "second_attribute": {
    "name": "Trust",
    "words": [
     "trust",
@@ -674,6 +518,19 @@
     "honest",
     "candid"
    ]
+  },
+  "second_attribute": {
+   "name": "Deceptive",
+   "words": [
+    "untrustworthy",
+    "dishonest",
+    "deceitful",
+    "deceptive",
+    "untruthful",
+    "misleading",
+    "liar",
+    "lied"
+   ]
   }
  },
  {
@@ -682,19 +539,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -706,18 +556,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -733,8 +576,7 @@
     "evildoers",
     "evilness",
     "unfriendly",
-    "hostile",
-    "unwelcoming"
+    "hostile"
    ]
   },
   "second_attribute": {
@@ -749,8 +591,7 @@
     "respectable",
     "friendly",
     "respectful",
-    "goodness",
-    "unwelcoming"
+    "goodness"
    ]
   }
  },
@@ -760,19 +601,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -784,35 +618,15 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
-   "name": "Career",
-   "words": [
-    "executive",
-    "management",
-    "professional",
-    "corporation",
-    "salary",
-    "office",
-    "business",
-    "career"
-   ]
-  },
-  "second_attribute": {
    "name": "Family",
    "words": [
     "home",
@@ -824,6 +638,19 @@
     "wedding",
     "relatives"
    ]
+  },
+  "second_attribute": {
+   "name": "Career",
+   "words": [
+    "executive",
+    "management",
+    "professional",
+    "corporation",
+    "salary",
+    "office",
+    "business",
+    "career"
+   ]
   }
  },
  {
@@ -832,19 +659,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -856,18 +676,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -881,7 +694,9 @@
     "diana",
     "kate",
     "ann",
-    "donna"
+    "donna",
+    "mary",
+    "nancy"
    ]
   },
   "second_attribute": {
@@ -894,7 +709,9 @@
     "steve",
     "greg",
     "jeff",
-    "bill"
+    "bill",
+    "matt",
+    "adam"
    ]
   }
  },
@@ -904,19 +721,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -928,18 +738,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -953,7 +756,9 @@
     "she",
     "her",
     "hers",
-    "daughter"
+    "daughter",
+    "mother",
+    "congresswoman"
    ]
   },
   "second_attribute": {
@@ -966,7 +771,9 @@
     "he",
     "him",
     "his",
-    "son"
+    "son",
+    "father",
+    "congressman"
    ]
   }
  },
@@ -976,19 +783,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1000,35 +800,15 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
-   "name": "Arts",
-   "words": [
-    "poetry",
-    "art",
-    "dance",
-    "literature",
-    "novel",
-    "symphony",
-    "drama",
-    "sculpture"
-   ]
-  },
-  "second_attribute": {
    "name": "STEM",
    "words": [
     "math",
@@ -1041,6 +821,20 @@
     "experiment",
     "mathematics"
    ]
+  },
+  "second_attribute": {
+   "name": "Arts",
+   "words": [
+    "poetry",
+    "art",
+    "dance",
+    "literature",
+    "novel",
+    "symphony",
+    "drama",
+    "sculpture",
+    "theater"
+   ]
   }
  },
  {
@@ -1049,19 +843,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1073,33 +860,15 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
-   "name": "Poor",
-   "words": [
-    "poor",
-    "poorer",
-    "impoverished",
-    "lowwealth",
-    "poverty",
-    "povertystricken"
-   ]
-  },
-  "second_attribute": {
    "name": "Rich",
    "words": [
     "rich",
@@ -1111,6 +880,19 @@
     "ultrarich",
     "welloff"
    ]
+  },
+  "second_attribute": {
+   "name": "Poor",
+   "words": [
+    "poor",
+    "poorer",
+    "poorest",
+    "impoverished",
+    "lowwealth",
+    "poverty",
+    "povertystricken",
+    "lowincome"
+   ]
   }
  },
  {
@@ -1119,19 +901,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1143,18 +918,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -1171,14 +939,15 @@
    ]
   },
   "second_attribute": {
-   "name": "Orthodox",
+   "name": "Moderate",
    "words": [
-    "orthodox",
-    "traditional",
-    "oldfashioned",
-    "oldschool",
+    "moderate",
+    "moderates",
+    "moderateleaning",
+    "mainstream",
     "tradition",
-    "usual"
+    "orthodox",
+    "conventional"
    ]
   }
  },
@@ -1188,19 +957,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1212,18 +974,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -1258,19 +1013,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1282,41 +1030,38 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
-   "name": "Authoritarian",
+   "name": "Atheist",
    "words": [
-    "authoritarian",
-    "autocratic",
-    "authoritarianism",
-    "autocrats",
-    "autocracy",
-    "autocracies",
-    "authoritarians"
+    "atheist",
+    "atheists",
+    "nonevangelical",
+    "atheistic",
+    "atheism",
+    "agnostic",
+    "authoritarians",
+    "agnosticism"
    ]
   },
   "second_attribute": {
-   "name": "Libertarian",
+   "name": "Evangelical",
    "words": [
-    "libertarian",
-    "libertarianism",
-    "libertarians",
-    "libertarianleaning",
-    "libertarianminded"
+    "evangelical",
+    "evangelicals",
+    "christian",
+    "evangelicalism",
+    "gospel",
+    "church",
+    "christianity",
+    "protestantism"
    ]
   }
  },
@@ -1326,19 +1071,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1350,18 +1088,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -1386,8 +1117,7 @@
     "partial",
     "partiality",
     "inequities",
-    "inequity",
-    "disparities"
+    "inequity"
    ]
   }
  },
@@ -1397,19 +1127,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1421,18 +1144,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -1469,19 +1185,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1493,18 +1202,11 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
@@ -1513,21 +1215,29 @@
    "words": [
     "guncontrol",
     "gunreform",
-    "antigunviolence",
     "antigun",
     "antinra",
     "proguncontrol",
-    "antisecond"
+    "antisecond",
+    "gunsafety",
+    "antigunviolence",
+    "neveragain",
+    "gunreformnow"
    ]
   },
   "second_attribute": {
    "name": "Gun Rights",
    "words": [
     "gunrights",
+    "progunrights",
     "progun",
     "prosecond",
     "proguns",
-    "pronra"
+    "pronra",
+    "nrabacked",
+    "righttocarry",
+    "standyourground",
+    "selfdefense"
    ]
   }
  },
@@ -1537,19 +1247,12 @@
    "words": [
     "democrat",
     "democrats",
-    "democratic",
     "dems",
     "dnc",
     "democratled",
-    "democicratled",
-    "democraticcontrolled",
     "democratcontrolled",
-    "democraticallycontrolled",
-    "democratdominated",
-    "democratheavy",
     "democratmajority",
     "democraticrun",
-    "democraticdominated",
     "democraticheavy",
     "deepblue"
    ]
@@ -1561,37 +1264,38 @@
     "republicans",
     "rnc",
     "gop",
-    "gopers",
-    "gopled",
     "republicanled",
     "gopcontrolled",
-    "repubs",
-    "republicancontrolled",
     "republicanmajority",
-    "republicandominated",
-    "gopdominated",
-    "majorityrepublican",
-    "gopleaning",
-    "republicanleaning",
+    "republicanrun",
+    "republicanheavy",
     "deepred"
    ]
   },
   "first_attribute": {
-   "name": "Internationalism",
+   "name": "Northern States",
    "words": [
-    "internationalist",
-    "internationalism",
-    "internationalists"
+    "massachusetts",
+    "maine",
+    "vermont",
+    "newyork",
+    "connecticut",
+    "maryland",
+    "pennsylvania",
+    "delaware"
    ]
   },
   "second_attribute": {
-   "name": "Nationalism",
+   "name": "Southern States",
    "words": [
-    "nationalism",
-    "nationalist",
-    "nationalists",
-    "nationalistic",
-    "ultranationalism"
+    "texas",
+    "alabama",
+    "mississippi",
+    "louisiana",
+    "tennessee",
+    "florida",
+    "oklahoma",
+    "georgia"
    ]
   }
  }
