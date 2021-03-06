@@ -1,0 +1,66 @@
+Atheist vs. Evangelical,GloVe,0.023134389985474003
+Atheist vs. Evangelical,fastText,0.012259690045021528
+Atheist vs. Evangelical,w2v,0.0013008766275093115
+Climate Change Activist vs. Climate Change Denier,GloVe,0.0712039324756716
+Climate Change Activist vs. Climate Change Denier,fastText,0.04549725266430929
+Climate Change Activist vs. Climate Change Denier,w2v,0.004365546930225353
+Evil vs. Good,GloVe,0.06648308055437864
+Evil vs. Good,fastText,0.06123724356957947
+Evil vs. Good,w2v,0.031736414416250615
+Fair vs. Unfair,GloVe,0.0593295878967653
+Fair vs. Unfair,fastText,0.02266715685744465
+Fair vs. Unfair,w2v,0.06618156843109718
+Family vs. Career,GloVe,0.04283923435356893
+Family vs. Career,fastText,0.04999999999999998
+Family vs. Career,w2v,0.010691117808723276
+Female names vs. Male names,GloVe,0.005932958789676532
+Female names vs. Male names,fastText,7.217201673779111e-06
+Female names vs. Male names,w2v,0.0005593925276583519
+Female terms vs. Male terms,GloVe,0.04375728510773949
+Female terms vs. Male terms,fastText,0.00013567166247967924
+Female terms vs. Male terms,w2v,0.03935987804859156
+Gun Control vs. Gun Rights,GloVe,0.04165042616828788
+Gun Control vs. Gun Rights,fastText,0.10502380682492898
+Gun Control vs. Gun Rights,w2v,0.0005453439281774392
+Lazy vs. Hard Working,GloVe,0.027748873851023224
+Lazy vs. Hard Working,fastText,0.04505552130427524
+Lazy vs. Hard Working,w2v,0.015874507866387545
+Liberal vs. Conservative,GloVe,0.0009592549191951011
+Liberal vs. Conservative,fastText,0.0014099645385611654
+Liberal vs. Conservative,w2v,4.979959839195495e-06
+Northern States vs. Southern States,GloVe,0.0035721142198983508
+Northern States vs. Southern States,fastText,6.9564358690352344e-06
+Northern States vs. Southern States,w2v,3.0024989592004854e-05
+Old people’s names vs. Young people’s names,GloVe,0.07259476565152613
+Old people’s names vs. Young people’s names,fastText,0.012116104984688765
+Old people’s names vs. Young people’s names,w2v,0.08467585252006621
+Peace vs. War,GloVe,0.05019960159204453
+Peace vs. War,fastText,0.005225897052181568
+Peace vs. War,w2v,0.06403124237432851
+Pro-Immigration vs. Anti-Immigration,GloVe,0.17697457444503148
+Pro-Immigration vs. Anti-Immigration,fastText,0.03690528417449186
+Pro-Immigration vs. Anti-Immigration,w2v,0.010568822072492283
+Prochoice vs. Prolife,GloVe,0.1465605676844901
+Prochoice vs. Prolife,fastText,0.005361716143176548
+Prochoice vs. Prolife,w2v,0.005343407152744398
+Progressive vs. Moderate,GloVe,0.06109009739720506
+Progressive vs. Moderate,fastText,0.0004024922359499621
+Progressive vs. Moderate,w2v,0.061886993787063214
+Rich vs. Poor,GloVe,0.07014271166700072
+Rich vs. Poor,fastText,0.033466401061363005
+Rich vs. Poor,w2v,0.027748873851023224
+STEM vs. Arts,GloVe,0.09959919678390987
+STEM vs. Arts,fastText,0.05099019513592784
+STEM vs. Arts,w2v,0.17111399708965952
+Transparent vs. Secretive,GloVe,0.06220932405998315
+Transparent vs. Secretive,fastText,0.013386560424545212
+Transparent vs. Secretive,w2v,0.04266145801540308
+Trickle Up Economics vs. Trickle Down Economics,GloVe,0.10331892372648875
+Trickle Up Economics vs. Trickle Down Economics,fastText,0.06782329983125267
+Trickle Up Economics vs. Trickle Down Economics,w2v,0.004722287581247038
+Trust vs. Deceptive,GloVe,0.11958260743101401
+Trust vs. Deceptive,fastText,0.013736811857195977
+Trust vs. Deceptive,w2v,0.033466401061363005
+Unpleasant vs. Pleasant,GloVe,0.11010358758914263
+Unpleasant vs. Pleasant,fastText,0.05319774431308153
+Unpleasant vs. Pleasant,w2v,0.041245605826560484
