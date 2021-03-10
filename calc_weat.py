@@ -35,11 +35,11 @@ def main():
     print('done')
 
     #load glove
-    glove1_model = load_vectors.load_glove('embeddings/Original/GloVe/glove_vectors.txt')
-    glove2_model = load_vectors.load_glove('embeddings/Original/GloVe/glove_vectors2.txt')
-    glove3_model = load_vectors.load_glove('embeddings/Original/GloVe/glove_vectors3.txt')
-    glove4_model = load_vectors.load_glove('embeddings/Original/GloVe/glove_vectors4.txt')
-    glove5_model = load_vectors.load_glove('embeddings/Original/GloVe/glove_vectors5.txt')
+    glove1_model = load_vectors.load_txt_format('embeddings/Original/GloVe/glove_vectors.txt')
+    glove2_model = load_vectors.load_txt_format('embeddings/Original/GloVe/glove_vectors2.txt')
+    glove3_model = load_vectors.load_txt_format('embeddings/Original/GloVe/glove_vectors3.txt')
+    glove4_model = load_vectors.load_txt_format('embeddings/Original/GloVe/glove_vectors4.txt')
+    glove5_model = load_vectors.load_txt_format('embeddings/Original/GloVe/glove_vectors5.txt')
     print('done')
 
     #load fastText

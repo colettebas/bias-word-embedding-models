@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from textwrap import wrap
 
-def plot_eval_scores(file):
+def plot_eval_scores(file, outlier_file, category_file, similarity_file,
+                     analogy_file, eval_mean_output, eval_std_output):
     sns.set_context('paper')
 
     # load dataset
@@ -12,14 +13,14 @@ def plot_eval_scores(file):
 
     # create plot
     sns.barplot(x = 'Test', y = 'Score', hue = 'Model', data = scores,
-                order = ['8-8-8 OPP', '8-8-8 Accuracy '],
+                order = ['8-8-8 OPP', '8-8-8 Accuracy'],
                 palette = 'hls',
                 capsize = 0.05,
                 saturation = 8,
                 errcolor = 'gray', errwidth = 2,
                 ci = 'sd'
                 )
-    plt.savefig('outlier_graph')
+    plt.savefig(outlier_file)
 
     plt.clf()
 
@@ -31,7 +32,7 @@ def plot_eval_scores(file):
                 errcolor = 'gray', errwidth = 2,
                 ci = 'sd'
                 )
-    plt.savefig('category_graph')
+    plt.savefig(category_file)
     plt.clf()
     sns.barplot(x = 'Test', y = 'Score',hue = 'Model', data = scores,
                 order = ['MEN', 'WS353', 'WS353R', 'WS353S', 'SimLex999', 'RW', 'RG65', 'MTurk'],
@@ -41,7 +42,8 @@ def plot_eval_scores(file):
                 errcolor = 'gray', errwidth = 2,
                 ci = 'sd'
                 )
-    plt.savefig('similarity_graph')
+    plt.savefig(similarity_file)
+
     plt.clf()
     sns.barplot(x = 'Test', y = 'Score', hue = 'Model',data = scores,
                 order = ['Google', 'MSR', 'SemEval2012_2'],
@@ -51,10 +53,10 @@ def plot_eval_scores(file):
                 errcolor = 'gray', errwidth = 2,
                 ci = 'sd'
                 )
-    plt.savefig('analogy_graph')
+    plt.savefig(analogy_file)
 
-    print(scores.groupby(['Test', 'Model']).mean()['Score'])
-    print(scores.groupby(['Test', 'Model']).std()['Score'])
+    scores.groupby(['Test', 'Model']).mean()['Score'].to_csv(eval_mean_output)
+    scores.groupby(['Test', 'Model']).std()['Score'].to_csv(eval_std_output)
 
 
 def plot_WEAT_benchmark_scores(input, output):
@@ -150,13 +152,20 @@ def plot_WEAT_political_scores(input, output_graph1, output_graph2, mean_output,
 
 def main():
     #plot_WEAT_benchmark_scores('AllWEATBenchmarkScores.csv', 'WEAT_benchmark_plot')
-    plot_WEAT_political_scores('weat_results/original/AllWEATPoliticalScores.csv',
-                               'weat_results/original/WEAT_political_plot_generic',
-                               'weat_results/original/WEAT_political_plot_specific',
-                               'weat_results/original/mean_WEAT_political_scores.csv',
-                               'weat_results/original/std_WEAT_political_scores.csv',
-                               'weat_results/original/mean_WEAT_political_pvalues.csv',
-                               'weat_results/original/std_WEAT_political_pvalues.csv')
+    #plot_WEAT_political_scores('weat_results/original/AllWEATPoliticalScores.csv',
+    #                           'weat_results/original/WEAT_political_plot_generic',
+    #                           'weat_results/original/WEAT_political_plot_specific',
+    #                           'weat_results/original/mean_WEAT_political_scores.csv',
+    #                           'weat_results/original/std_WEAT_political_scores.csv',
+    #                           'weat_results/original/mean_WEAT_political_pvalues.csv',
+    #                           'weat_results/original/std_WEAT_political_pvalues.csv')
+    plot_eval_scores('eval_results/AllEvalOriginalScores.csv',
+                     'eval_results/original/original_outlier_graph',
+                     'eval_results/original/original_category_graph',
+                     'eval_results/original/original_similarity_graph',
+                     'eval_results/original/original_analogy_graph',
+                     'eval_results/original/original_mean_scores',
+                     'eval_results/original/original_std_scores')
 
 if __name__ == "__main__":
     main()

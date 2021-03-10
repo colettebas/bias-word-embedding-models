@@ -17,7 +17,7 @@ def convert_to_w2v_format(w2v_in, fast_in, w2v_name, fast_name):
 
 def id_diff_vocab():
     print('loading glove')
-    glove_model = load_vectors.load_glove('glove_vectors.txt')
+    glove_model = load_vectors.load_txt_format('glove_vectors.txt')
     print('loading w2v')
     w2v_model = load_vectors.load_w2v('w2v_vectors')
     glove_vocab = list(glove_model.vocab)

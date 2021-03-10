@@ -1,6 +1,6 @@
 from gensim.models import KeyedVectors, Word2Vec, FastText
 
-def load_glove(file):
+def load_txt_format(file):
     return KeyedVectors.load_word2vec_format(file, binary=False)
 
 def load_w2v(file):
