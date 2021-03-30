@@ -17,7 +17,7 @@ def create_fast_text(file):
     return fast_model
 
 def main():
-    fast_text_model = create_fast_text('data/clean_sent.txt')
+    fast_text_model = create_fast_text('double_hard_data/clean_sent.txt')
     fast_text_model.save('fast_text_vectors5')
 
 if __name__ == "__main__":

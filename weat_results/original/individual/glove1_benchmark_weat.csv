@@ -1,11 +1,10 @@
-,Target words,Attrib. words,Nt,Na,s,d,original_N,original_d,original_p
-0,Flowers vs. Insects,Pleasant vs. Unpleasant,23x2,25x2,0.7038872835692018,0.8318679332733154,32,1.35,1e-8
-1,Instruments vs. Weapons,Pleasant vs. Unpleasant,22x2,25x2,0.7438265108503401,0.8762025237083435,32,1.66,1e-10
-2,European American names vs. African American names,Pleasant vs. Unpleasant,31x2,25x2,0.41073807794600725,0.5918336510658264,26,1.17,1e-5
-3,European American names vs. African American names,Pleasant vs. Unpleasant,0x2,25x2,,,,,
-4,European American names vs. African American names,Pleasant vs. Unpleasant,0x2,8x2,,,,,
-5,Male names vs. Female names,Career vs. Family,8x2,8x2,0.8818435901775956,1.76249098777771,39k,0.72,< 1e-2
-6,Math vs. Arts,Male terms vs. Female terms,8x2,8x2,0.13142193900421262,0.6182109713554382,28k,0.82,< 1e-2
-7,Science vs. Arts,Male terms vs. Female terms,6x2,8x2,0.09256993420422077,0.4533272683620453,91,1.47,1e-24
-8,Mental disease vs. Physical disease,Temporary vs. Permanent,6x2,6x2,0.7754522524774075,1.4983258247375488,135,1.01,1e-3
-9,Young people’s names vs. Old people’s names,Pleasant vs. Unpleasant,8x2,7x2,0.5129407867789268,1.466172456741333,43k,1.42,< 1e-2
+,Target words,Attrib. words,Nt,Na,s,d,p,original_N,original_d,original_p
+0,Flowers vs. Insects,Pleasant vs. Unpleasant,9x2,10x2,0.3549,1.0868,9.8e-03,32,1.35,1e-8
+1,Instruments vs. Weapons,Pleasant vs. Unpleasant,10x2,10x2,0.1719,0.4652,1.6e-01,32,1.66,1e-10
+2,European American names vs. African American names,Pleasant vs. Unpleasant,10x2,10x2,0.3911,1.3464,4.2e-04,26,1.17,1e-5
+3,European American names vs. African American names,Pleasant vs. Unpleasant,10x2,10x2,0.2572,1.0563,7.7e-03,,,
+4,Male names vs. Female names,Career vs. Family,8x2,8x2,0.8818,1.7625,0.0,39k,0.72,< 1e-2
+5,Math vs. Arts,Male terms vs. Female terms,8x2,8x2,0.1314,0.6182,1.2e-01,28k,0.82,< 1e-2
+6,Science vs. Arts,Male terms vs. Female terms,7x2,8x2,0.0801,0.3342,2.8e-01,91,1.47,1e-24
+7,Mental disease vs. Physical disease,Temporary vs. Permanent,6x2,6x2,0.7755,1.4983,1.1e-03,135,1.01,1e-3
+8,Young people’s names vs. Old people’s names,Pleasant vs. Unpleasant,8x2,7x2,0.5129,1.4662,4.7e-04,43k,1.42,< 1e-2

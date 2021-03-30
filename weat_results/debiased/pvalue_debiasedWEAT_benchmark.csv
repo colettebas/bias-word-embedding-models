@@ -1,0 +1,32 @@
+European Names/African Names & Pleasant/Unpleasant,GloVe,0.004564
+European Names/African Names & Pleasant/Unpleasant,Original Finding,1e-05
+European Names/African Names & Pleasant/Unpleasant,fastText,2.82e-05
+European Names/African Names & Pleasant/Unpleasant,w2v,0.00392
+Flowers/Insects & Pleasant/Unpleasant,GloVe,0.056479999999999995
+Flowers/Insects & Pleasant/Unpleasant,Original Finding,1e-08
+Flowers/Insects & Pleasant/Unpleasant,fastText,0.118
+Flowers/Insects & Pleasant/Unpleasant,w2v,0.023699999999999995
+Instruments/Weapons & Pleasant/Unpleasant,GloVe,0.07766
+Instruments/Weapons & Pleasant/Unpleasant,Original Finding,1e-10
+Instruments/Weapons & Pleasant/Unpleasant,fastText,0.0059
+Instruments/Weapons & Pleasant/Unpleasant,w2v,0.00042000000000000007
+Male/Female & Career/Family,GloVe,1.56e-05
+Male/Female & Career/Family,Original Finding,0.01
+Male/Female & Career/Family,fastText,0.000666
+Male/Female & Career/Family,w2v,3.12e-05
+Math/Arts & Male/Female,GloVe,0.03198
+Math/Arts & Male/Female,Original Finding,0.01
+Math/Arts & Male/Female,fastText,0.748
+Math/Arts & Male/Female,w2v,0.0402
+Mental Disease/Physical Disease & Temporary/Permenant ,GloVe,0.00152
+Mental Disease/Physical Disease & Temporary/Permenant ,Original Finding,0.001
+Mental Disease/Physical Disease & Temporary/Permenant ,fastText,0.15400000000000003
+Mental Disease/Physical Disease & Temporary/Permenant ,w2v,0.01148
+Science/Arts & Male/Female,GloVe,0.15699999999999997
+Science/Arts & Male/Female,Original Finding,0.0
+Science/Arts & Male/Female,fastText,0.0264
+Science/Arts & Male/Female,w2v,0.01538
+Young Names/Old Names & Pleasant/Unpleasant,GloVe,0.0020740000000000003
+Young Names/Old Names & Pleasant/Unpleasant,Original Finding,0.01
+Young Names/Old Names & Pleasant/Unpleasant,fastText,0.288
+Young Names/Old Names & Pleasant/Unpleasant,w2v,0.244

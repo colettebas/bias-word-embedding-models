@@ -9,8 +9,8 @@ Word embeddings derived from humangenerated corpora inherit strong gender bias w
 - [Word Embedding Benckmarks](https://github.com/kudkudak/word-embeddings-benchmarks)
 
 ### Data
-- Word Embeddings: Please download embeddings debiased by our Double-Hard Debias and other word embeddings from ([here](http://www.cs.virginia.edu/~tw8cb/word_embeddings/)) and save them into [data](./data) folder. 
-- Special word lists: You can find all word lists used in this project in [data](./data) folder.
+- Word Embeddings: Please download embeddings debiased by our Double-Hard Debias and other word embeddings from ([here](http://www.cs.virginia.edu/~tw8cb/word_embeddings/)) and save them into [data](double_hard_data) folder. 
+- Special word lists: You can find all word lists used in this project in [data](double_hard_data) folder.
 
 ### Double-Hard Debias
 You can find the detailed steps to implement Double-Hard Debias in [GloVe_Debias](./GloVe_Debias.ipynb)

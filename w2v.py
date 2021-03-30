@@ -14,7 +14,7 @@ def create_w2v(file):
     return model
 
 def main():
-    corpus_file = 'data/clean_sent.txt'
+    corpus_file = 'double_hard_data/clean_sent.txt'
     w2v_model = create_w2v(corpus_file)
     w2v_model.save('w2v_vectors5')
 

@@ -1,0 +1,57 @@
+Embedding,Test,Model,Score
+Original,European Names/African Names & Pleasant/Unpleasant,fastText,1.67118
+Original,Flowers/Insects & Pleasant/Unpleasant,fastText,0.5292
+Original,Instruments/Weapons & Pleasant/Unpleasant,fastText,1.04644
+Original,Male/Female & Career/Family,fastText,1.48726
+Original,Math/Arts & Male/Female,fastText,-0.48216
+Original,Mental Disease/Physical Disease & Temporary/Permanent,fastText,0.58464
+Original,Science/Arts & Male/Female,fastText,0.78076
+Original,Young Names/Old Names & Pleasant/Unpleasant,fastText,0.09876
+Original,European Names/African Names & Pleasant/Unpleasant,GloVe,1.35068
+Original,Flowers/Insects & Pleasant/Unpleasant,GloVe,0.76212
+Original,Instruments/Weapons & Pleasant/Unpleasant,GloVe,0.48868
+Original,Male/Female & Career/Family,GloVe,1.74846
+Original,Math/Arts & Male/Female,GloVe,0.87274
+Original,Mental Disease/Physical Disease & Temporary/Permanent,GloVe,1.45878
+Original,Science/Arts & Male/Female,GloVe,0.64536
+Original,Young Names/Old Names & Pleasant/Unpleasant,GloVe,1.26406
+Original,European Names/African Names & Pleasant/Unpleasant,w2v,1.1655
+Original,Flowers/Insects & Pleasant/Unpleasant,w2v,0.97572
+Original,Instruments/Weapons & Pleasant/Unpleasant,w2v,1.38822
+Original,Male/Female & Career/Family,w2v,1.72546
+Original,Math/Arts & Male/Female,w2v,0.73156
+Original,Mental Disease/Physical Disease & Temporary/Permanent,w2v,1.37674
+Original,Science/Arts & Male/Female,w2v,0.97264
+Original,Young Names/Old Names & Pleasant/Unpleasant,w2v,0.52134
+Debiased,European Names/African Names & Pleasant/Unpleasant,fastText,1.62292
+Debiased,Flowers/Insects & Pleasant/Unpleasant,fastText,0.58946
+Debiased,Instruments/Weapons & Pleasant/Unpleasant,fastText,1.10746
+Debiased,Male/Female & Career/Family,fastText,1.52694
+Debiased,Math/Arts & Male/Female,fastText,-0.3592
+Debiased,Mental Disease/Physical Disease & Temporary/Permanent,fastText,0.6272
+Debiased,Science/Arts & Male/Female,fastText,1.0271
+Debiased,Young Names/Old Names & Pleasant/Unpleasant,fastText,0.29958
+Debiased,European Names/African Names & Pleasant/Unpleasant,GloVe,1.1988
+Debiased,Flowers/Insects & Pleasant/Unpleasant,GloVe,0.85178
+Debiased,Instruments/Weapons & Pleasant/Unpleasant,GloVe,0.749
+Debiased,Male/Female & Career/Family,GloVe,1.71912
+Debiased,Math/Arts & Male/Female,GloVe,0.9652
+Debiased,Mental Disease/Physical Disease & Temporary/Permanent,GloVe,1.48666
+Debiased,Science/Arts & Male/Female,GloVe,0.60884
+Debiased,Young Names/Old Names & Pleasant/Unpleasant,GloVe,1.3226
+Debiased,European Names/African Names & Pleasant/Unpleasant,w2v,1.18294
+Debiased,Flowers/Insects & Pleasant/Unpleasant,w2v,0.96184
+Debiased,Instruments/Weapons & Pleasant/Unpleasant,w2v,1.37868
+Debiased,Male/Female & Career/Family,w2v,1.73954
+Debiased,Math/Arts & Male/Female,w2v,0.9292
+Debiased,Mental Disease/Physical Disease & Temporary/Permanent,w2v,1.34826
+Debiased,Science/Arts & Male/Female,w2v,1.1896
+Debiased,Young Names/Old Names & Pleasant/Unpleasant,w2v,0.37002
+Original Finding,European Names/African Names & Pleasant/Unpleasant,Original Finding,1.17
+Original Finding,Flowers/Insects & Pleasant/Unpleasant,Original Finding,1.35
+Original Finding,Instruments/Weapons & Pleasant/Unpleasant,Original Finding,1.66
+Original Finding,Male/Female & Career/Family,Original Finding,0.72
+Original Finding,Math/Arts & Male/Female,Original Finding,0.82
+Original Finding,Mental Disease/Physical Disease & Temporary/Permanent,Original Finding,1.01
+Original Finding,Science/Arts & Male/Female,Original Finding,1.47
+Original Finding,Young Names/Old Names & Pleasant/Unpleasant,Original Finding,1.42

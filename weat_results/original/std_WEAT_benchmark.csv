@@ -1,0 +1,32 @@
+European Names/African Names & Pleasant/Unpleasant,GloVe,0.09590253906962005
+European Names/African Names & Pleasant/Unpleasant,Original Finding,
+European Names/African Names & Pleasant/Unpleasant,fastText,0.01969446622785201
+European Names/African Names & Pleasant/Unpleasant,w2v,0.10327419813293155
+Flowers/Insects & Pleasant/Unpleasant,GloVe,0.3581652649266815
+Flowers/Insects & Pleasant/Unpleasant,Original Finding,
+Flowers/Insects & Pleasant/Unpleasant,fastText,0.015080616698265327
+Flowers/Insects & Pleasant/Unpleasant,w2v,0.09935711851699403
+Instruments/Weapons & Pleasant/Unpleasant,GloVe,0.26866350142883194
+Instruments/Weapons & Pleasant/Unpleasant,Original Finding,
+Instruments/Weapons & Pleasant/Unpleasant,fastText,0.01161090005124501
+Instruments/Weapons & Pleasant/Unpleasant,w2v,0.02973570244672229
+Male/Female & Career/Family,GloVe,0.029007292186620987
+Male/Female & Career/Family,Original Finding,
+Male/Female & Career/Family,fastText,0.03660209010425504
+Male/Female & Career/Family,w2v,0.04447806200814063
+Math/Arts & Male/Female,GloVe,0.19597111521854443
+Math/Arts & Male/Female,Original Finding,
+Math/Arts & Male/Female,fastText,0.06433438427466294
+Math/Arts & Male/Female,w2v,0.15935718684765995
+Mental Disease/Physical Disease & Temporary/Permenant ,GloVe,0.04321252133352088
+Mental Disease/Physical Disease & Temporary/Permenant ,Original Finding,
+Mental Disease/Physical Disease & Temporary/Permenant ,fastText,0.06417466789941338
+Mental Disease/Physical Disease & Temporary/Permenant ,w2v,0.04017446950489827
+Science/Arts & Male/Female,GloVe,0.3441630325877548
+Science/Arts & Male/Female,Original Finding,
+Science/Arts & Male/Female,fastText,0.08367788238238345
+Science/Arts & Male/Female,w2v,0.1999494761183435
+Young Names/Old Names & Pleasant/Unpleasant,GloVe,0.15069397134590345
+Young Names/Old Names & Pleasant/Unpleasant,Original Finding,
+Young Names/Old Names & Pleasant/Unpleasant,fastText,0.06101080232221177
+Young Names/Old Names & Pleasant/Unpleasant,w2v,0.05123883292972235

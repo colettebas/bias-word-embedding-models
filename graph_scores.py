@@ -59,7 +59,7 @@ def plot_eval_scores(file, outlier_file, category_file, similarity_file,
     scores.groupby(['Test', 'Model']).std()['Score'].to_csv(eval_std_output)
 
 
-def plot_WEAT_benchmark_scores(input, output):
+def plot_WEAT_benchmark_scores(input, graph_output, mean_output, std_output, pvalue_mean_output):
     sns.set_context('paper')
 
     # load dataset
@@ -85,12 +85,13 @@ def plot_WEAT_benchmark_scores(input, output):
     plot.tick_params(axis='x', which='major', pad=10)
     plt.ylabel('d Score')
     plt.tight_layout()
-    plt.savefig(output)
+    plt.savefig(graph_output)
 
     plt.clf()
 
-    scores.groupby(['Test', 'Model']).mean()['Score'].to_csv('mean_WEAT_benchmark_scores.csv')
-    scores.groupby(['Test', 'Model']).std()['Score'].to_csv('std_WEAT_benchmark_scores.csv')
+    scores.groupby(['Test', 'Model']).mean()['Score'].to_csv(mean_output)
+    scores.groupby(['Test', 'Model']).std()['Score'].to_csv(std_output)
+    scores.groupby(['Test', 'Model']).mean()['pValue'].to_csv(pvalue_mean_output)
 
 def plot_WEAT_political_scores(input, output_graph1, output_graph2, mean_output, std_output, pvalue_mean_output,
                                pvalue_std_output):
@@ -149,23 +150,196 @@ def plot_WEAT_political_scores(input, output_graph1, output_graph2, mean_output,
     scores.groupby(['Test', 'Model']).mean()['pValue'].to_csv(pvalue_mean_output)
     scores.groupby(['Test', 'Model']).std()['pValue'].to_csv(pvalue_std_output)
 
+def plot_eval_comparison(file, model, outlier_file, category_file, similarity_file, analogy_file):
+    sns.set_context('paper')
+
+    # load dataset
+    all_scores = pd.read_csv(file)
+
+    #filter by model
+    scores = all_scores[all_scores.Model == model]
+
+    # create plot
+    sns.barplot(x = 'Test', y = 'Score', hue = 'Embedding', data = scores,
+                order = ['8-8-8 OPP', '8-8-8 Accuracy'],
+                palette = 'hls',
+                capsize = 0.05,
+                saturation = 8,
+                errcolor = 'gray', errwidth = 2,
+                ci = 'sd'
+                )
+    plt.savefig(outlier_file)
+
+    plt.clf()
+
+    sns.barplot(x = 'Test', y = 'Score', hue = 'Embedding', data = scores,
+                order = ['AP', 'BLESS', 'Battig', 'ESSLI_2c', 'ESSLI_2b', 'ESSLI_1a'],
+                palette = 'hls',
+                capsize = 0.05,
+                saturation = 8,
+                errcolor = 'gray', errwidth = 2,
+                ci = 'sd'
+                )
+    plt.savefig(category_file)
+    plt.clf()
+    sns.barplot(x = 'Test', y = 'Score',hue = 'Embedding', data = scores,
+                order = ['MEN', 'WS353', 'WS353R', 'WS353S', 'SimLex999', 'RW', 'RG65', 'MTurk'],
+                palette = 'hls',
+                capsize = 0.05,
+                saturation = 8,
+                errcolor = 'gray', errwidth = 2,
+                ci = 'sd'
+                )
+    plt.savefig(similarity_file)
+
+    plt.clf()
+    sns.barplot(x = 'Test', y = 'Score', hue = 'Embedding',data = scores,
+                order = ['Google', 'MSR', 'SemEval2012_2'],
+                palette = 'hls',
+                capsize = 0.05,
+                saturation = 8,
+                errcolor = 'gray', errwidth = 2,
+                ci = 'sd'
+                )
+    plt.savefig(analogy_file)
+    plt.clf()
+
+def plot_WEAT_benchmark_comparisons(input, model, graph_output):
+    sns.set_context('paper')
+
+    # load dataset
+    all_scores = pd.read_csv(input)
+
+    #filter by model
+    original = all_scores[all_scores.Model == 'Original Finding']
+    scores = all_scores[all_scores.Model == model]
+    scores = pd.concat([original, scores])
+
+    # create plot
+    plot = sns.barplot(x = 'Test', y = 'Score', hue = 'Embedding', data = scores,
+                       palette = 'hls',
+                       capsize = 0.05,
+                       saturation = 8,
+                       errcolor = 'gray', errwidth = 2,
+                       ci = 'sd'
+                       )
+    labels = ['Flowers/Insects & Pleasant/ Unpleasant', 'Instruments/ Weapons & Pleasant/ Unpleasant',
+              'European Names/African Names & Pleasant/ Unpleasant', 'Male/Female & Career/Family',
+              'Math/Arts & Male/Female', 'Science/Arts & Male/Female',
+              'Mental Disease/ Physical Disease & Temporary/ Permanent',
+              'Young Names/Old Names & Pleasant/ Unpleasant']
+    labels = [ '\n'.join(wrap(l, 16)) for l in labels ]
+    plot.set_xticklabels(labels,
+                         rotation=90)
+    plot.tick_params(axis='x', which='major', pad=10)
+    plt.ylabel('d Score')
+    plt.tight_layout()
+    plt.savefig(graph_output)
+
+    plt.clf()
+
+def plot_WEAT_political_comparisons(input, model, output_graph1, output_graph2):
+    sns.set_context('paper')
+
+    # load dataset
+    all_scores = pd.read_csv(input)
+
+    #filter by model
+    scores = all_scores[all_scores.Model == model]
+
+    # create plot
+    labels = ['Unpleasant vs. Pleasant', 'Lazy vs. Hard Working', 'Evil vs. Good',
+              'Family vs. Career', 'Female names vs. Male names', 'Female terms vs. Male terms',
+              'STEM vs. Arts', 'Rich vs. Poor', 'Old people’s names vs. Young people’s names']
+    generic_plot = sns.barplot(x = 'Test', y = 'Score', hue = 'Embedding', data = scores,
+                               order = labels,
+                               palette = 'hls',
+                               capsize = 0.05,
+                               saturation = 8,
+                               errcolor = 'gray', errwidth = 2,
+                               ci = 'sd'
+                               )
+    labels = [ '\n'.join(wrap(l, 16)) for l in labels ]
+    generic_plot.set_xticklabels(labels,
+                                 rotation=90)
+    plt.ylabel('d Score')
+    plt.tight_layout()
+    plt.savefig(output_graph1)
+
+    plt.clf()
+
+    # create plot
+    labels = ['Liberal vs. Conservative', 'Climate Change Activist vs. Climate Change Denier',
+              'Prochoice vs. Prolife', 'Peace vs. War', 'Pro-Immigration vs. Anti-Immigration',
+              'Trust vs. Deceptive', 'Progressive vs. Moderate', 'Transparent vs. Secretive',
+              'Atheist vs. Evangelical', 'Gun Control vs. Gun Rights',
+              'Northern States vs. Southern States', 'Fair vs. Unfair',
+              'Trickle Up Economics vs. Trickle Down Economics']
+    specific_plot = sns.barplot(x = 'Test', y = 'Score', hue = 'Embedding', data = scores,
+                                order = labels,
+                                palette = 'hls',
+                                capsize = 0.05,
+                                saturation = 8,
+                                errcolor = 'gray', errwidth = 2,
+                                ci = 'sd'
+                                )
+    labels = [ '\n'.join(wrap(l, 16)) for l in labels ]
+    specific_plot.set_xticklabels(labels,
+                                  rotation=90)
+    plt.ylabel('d Score')
+    plt.tight_layout()
+    plt.savefig(output_graph2)
+
+    plt.clf()
+
 
 def main():
-    #plot_WEAT_benchmark_scores('AllWEATBenchmarkScores.csv', 'WEAT_benchmark_plot')
-    #plot_WEAT_political_scores('weat_results/original/AllWEATPoliticalScores.csv',
-    #                           'weat_results/original/WEAT_political_plot_generic',
-    #                           'weat_results/original/WEAT_political_plot_specific',
-    #                           'weat_results/original/mean_WEAT_political_scores.csv',
-    #                           'weat_results/original/std_WEAT_political_scores.csv',
-    #                           'weat_results/original/mean_WEAT_political_pvalues.csv',
-    #                           'weat_results/original/std_WEAT_political_pvalues.csv')
-    plot_eval_scores('eval_results/AllEvalOriginalScores.csv',
-                     'eval_results/original/original_outlier_graph',
-                     'eval_results/original/original_category_graph',
-                     'eval_results/original/original_similarity_graph',
-                     'eval_results/original/original_analogy_graph',
-                     'eval_results/original/original_mean_scores',
-                     'eval_results/original/original_std_scores')
+#    plot_WEAT_benchmark_scores('weat_results/debiased/AllDebiasedWEATBenchmarkScores.csv',
+#                               'weat_results/debiased/debiasedWEAT_benchmark_plot',
+#                               'weat_results/debiased/mean_debiasedWEAT_benchmark.csv',
+#                               'weat_results/debiased/std_debiasedWEAT_benchmark.csv',
+#                               'weat_results/debiased/pvalue_debiasedWEAT_benchmark.csv')
+#    plot_WEAT_benchmark_scores('weat_results/original/AllWEATBenchmarkScores.csv',
+#                               'weat_results/original/WEAT_benchmark_plot',
+#                               'weat_results/original/mean_WEAT_benchmark.csv',
+#                               'weat_results/original/std_WEAT_benchmark.csv',
+#                               'weat_results/original/pvalue_WEAT_benchmark.csv')
+#    plot_WEAT_political_scores('weat_results/debiased/AllDebiasedWEATPoliticalScores.csv',
+#                               'weat_results/debiased/debiasedWEAT_political_plot_generic',
+#                               'weat_results/debiased/debiasedWEAT_political_plot_specific',
+#                               'weat_results/debiased/mean_debiasedWEAT_political_scores.csv',
+#                               'weat_results/debiased/std_debiasedWEAT_political_scores.csv',
+#                               'weat_results/debiased/mean_debiasedWEAT_political_pvalues.csv',
+#                               'weat_results/debiased/std_debiasedWEAT_political_pvalues.csv')
+#    plot_eval_scores('eval_results/AllEvalDebiasedScores.csv',
+#                     'eval_results/debiased/debiased_outlier_graph',
+#                     'eval_results/debiased/debiased_category_graph',
+#                     'eval_results/debiased/debiased_similarity_graph',
+#                     'eval_results/debiased/debiased_analogy_graph',
+#                     'eval_results/debiased/debiased_mean_scores.csv',
+#                     'eval_results/debiased/debiased_std_scores.csv')
+#    plot_eval_scores('eval_results/AllEvalOriginalScores.csv',
+#                 'eval_results/original/original_outlier_graph',
+#                 'eval_results/original/original_category_graph',
+#                 'eval_results/original/original_similarity_graph',
+#                 'eval_results/original/original_analogy_graph',
+#                 'eval_results/original/original_mean_scores.csv',
+#                 'eval_results/original/original_std_scores.csv')
+    plot_eval_comparison('eval_results/AllMeanEvalScores.csv',
+                     'w2v',
+                     'eval_results/comparisons/w2v_comparison_outlier_graph',
+                     'eval_results/comparisons/w2v_comparison_category_graph',
+                     'eval_results/comparisons/w2v_comparison_similarity_graph',
+                     'eval_results/comparisons/w2v_comparison_analogy_graph')
+    plot_WEAT_benchmark_comparisons('weat_results/AllMeanBenchmarkWEATScores.csv',
+                               'w2v',
+                               'weat_results/comparisons/w2v_comparison_WEAT_benchmark_graph')
+    plot_WEAT_political_comparisons('weat_results/AllMeanPoliticalWEATScores.csv',
+                                'w2v',
+                                'weat_results/comparisons/w2v_comparison_WEAT_political_plot_generic',
+                                'weat_results/comparisons/w2v_comparison_WEAT_political_plot_specific')
+
+
 
 if __name__ == "__main__":
     main()

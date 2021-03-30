@@ -1,0 +1,32 @@
+European Names/African Names & Pleasant/Unpleasant,GloVe,0.16371472139059468
+European Names/African Names & Pleasant/Unpleasant,Original Finding,
+European Names/African Names & Pleasant/Unpleasant,fastText,0.02223425285454858
+European Names/African Names & Pleasant/Unpleasant,w2v,0.09904131966002874
+Flowers/Insects & Pleasant/Unpleasant,GloVe,0.2685589730394424
+Flowers/Insects & Pleasant/Unpleasant,Original Finding,
+Flowers/Insects & Pleasant/Unpleasant,fastText,0.014507342968304037
+Flowers/Insects & Pleasant/Unpleasant,w2v,0.1034260267050804
+Instruments/Weapons & Pleasant/Unpleasant,GloVe,0.2744136111784545
+Instruments/Weapons & Pleasant/Unpleasant,Original Finding,
+Instruments/Weapons & Pleasant/Unpleasant,fastText,0.011361029882893581
+Instruments/Weapons & Pleasant/Unpleasant,w2v,0.030126931473351264
+Male/Female & Career/Family,GloVe,0.02489080151381226
+Male/Female & Career/Family,Original Finding,
+Male/Female & Career/Family,fastText,0.02796646205725715
+Male/Female & Career/Family,w2v,0.043832727498981754
+Math/Arts & Male/Female,GloVe,0.10976119532876817
+Math/Arts & Male/Female,Original Finding,
+Math/Arts & Male/Female,fastText,0.06575682474085863
+Math/Arts & Male/Female,w2v,0.14092627505188665
+Mental Disease/Physical Disease & Temporary/Permenant ,GloVe,0.048892207968141504
+Mental Disease/Physical Disease & Temporary/Permenant ,Original Finding,
+Mental Disease/Physical Disease & Temporary/Permenant ,fastText,0.06968618944956026
+Mental Disease/Physical Disease & Temporary/Permenant ,w2v,0.04342416378008905
+Science/Arts & Male/Female,GloVe,0.1905993258120291
+Science/Arts & Male/Female,Original Finding,
+Science/Arts & Male/Female,fastText,0.0843724184790267
+Science/Arts & Male/Female,w2v,0.1483070800737443
+Young Names/Old Names & Pleasant/Unpleasant,GloVe,0.09355845766150707
+Young Names/Old Names & Pleasant/Unpleasant,Original Finding,
+Young Names/Old Names & Pleasant/Unpleasant,fastText,0.06485674213217929
+Young Names/Old Names & Pleasant/Unpleasant,w2v,0.05093988614043026

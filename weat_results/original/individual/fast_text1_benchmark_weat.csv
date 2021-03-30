@@ -1,11 +1,10 @@
-,Target words,Attrib. words,Nt,Na,s,d,original_N,original_d,original_p
-0,Flowers vs. Insects,Pleasant vs. Unpleasant,25x2,25x2,1.1181,0.9265,32,1.35,1e-8
-1,Instruments vs. Weapons,Pleasant vs. Unpleasant,25x2,25x2,1.0663,0.8533,32,1.66,1e-10
-2,European American names vs. African American names,Pleasant vs. Unpleasant,50x2,25x2,1.2783,0.6346,26,1.17,1e-5
-3,European American names vs. African American names,Pleasant vs. Unpleasant,18x2,25x2,0.5689,0.9565,,,
-4,European American names vs. African American names,Pleasant vs. Unpleasant,18x2,8x2,0.726,0.7899,,,
-5,Male names vs. Female names,Career vs. Family,8x2,8x2,0.5965,0.9394,39k,0.72,< 1e-2
-6,Math vs. Arts,Male terms vs. Female terms,8x2,8x2,-0.0827,-0.4752,28k,0.82,< 1e-2
-7,Science vs. Arts,Male terms vs. Female terms,8x2,8x2,0.0521,0.3912,91,1.47,1e-24
-8,Mental disease vs. Physical disease,Temporary vs. Permanent,6x2,7x2,-0.0128,-0.0624,135,1.01,1e-3
-9,Young people’s names vs. Old people’s names,Pleasant vs. Unpleasant,8x2,8x2,-0.1114,-0.2269,43k,1.42,< 1e-2
+,Target words,Attrib. words,Nt,Na,s,d,p,original_N,original_d,original_p
+0,Flowers vs. Insects,Pleasant vs. Unpleasant,9x2,10x2,0.265,0.517,1.5e-01,32,1.35,1e-8
+1,Instruments vs. Weapons,Pleasant vs. Unpleasant,10x2,10x2,0.7533,1.043,8.9e-03,32,1.66,1e-10
+2,European American names vs. African American names,Pleasant vs. Unpleasant,10x2,10x2,0.7852,1.7046,2.2e-05,26,1.17,1e-5
+3,European American names vs. African American names,Pleasant vs. Unpleasant,10x2,10x2,0.7305,1.4269,1.9e-04,,,
+4,Male names vs. Female names,Career vs. Family,8x2,8x2,0.5318,1.4284,1.3e-03,39k,0.72,< 1e-2
+5,Math vs. Arts,Male terms vs. Female terms,8x2,8x2,-0.0827,-0.4752,8.1e-01,28k,0.82,< 1e-2
+6,Science vs. Arts,Male terms vs. Female terms,7x2,8x2,0.1001,0.7003,1.1e-01,91,1.47,1e-24
+7,Mental disease vs. Physical disease,Temporary vs. Permanent,6x2,6x2,0.1884,0.617,1.6e-01,135,1.01,1e-3
+8,Young people’s names vs. Old people’s names,Pleasant vs. Unpleasant,8x2,7x2,0.0306,0.1147,4.2e-01,43k,1.42,< 1e-2

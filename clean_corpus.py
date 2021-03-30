@@ -36,8 +36,8 @@ def removeNonalphaOrNonnum(tokens):
     return words
 
 def main():
-    # load data
-    #filename = 'data/polusa.txt'
+    # load double_hard_data
+    #filename = 'double_hard_data/polusa.txt'
     #file = open(filename, 'rt')
     #text = file.read()
     #file.close()
@@ -46,7 +46,7 @@ def main():
     #    for s in sentences:
     #        file.write(s + '\n')
     clean_sentences = []
-    with open('data/temp_sentences.txt', 'rb') as file:
+    with open('double_hard_data/temp_sentences.txt', 'rb') as file:
         lines = file.readlines()
     for line in lines:
         tokens = tokenize(line.decode('utf-8'))
