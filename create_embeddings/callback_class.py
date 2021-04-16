@@ -2,7 +2,7 @@ import datetime
 
 from gensim.models.callbacks import CallbackAny2Vec
 
-
+#creates callback logs for Gensim training
 class callback_log(CallbackAny2Vec):
     '''Output loss at each epoch'''
     def __init__(self):

@@ -1,115 +1,115 @@
-Embedding,Test,Model,Score
-Original,AP,fastText,0.5263681592
-Original,BLESS,fastText,0.53
-Original,Battig,fastText,0.2969986618
-Original,ESSLI_1a,fastText,0.6727272727
-Original,ESSLI_2b,fastText,0.73
-Original,ESSLI_2c,fastText,0.6133333333
-Original,MEN,fastText,0.5688869618
-Original,MTurk,fastText,0.6284307799
-Original,RG65,fastText,0.4871283257
-Original,RW,fastText,0.3263204029
-Original,SimLex999,fastText,0.3385642051
-Original,WS353,fastText,0.464806244
-Original,WS353R,fastText,0.3712226994
-Original,WS353S,fastText,0.5626722283
-Original,Google,fastText,0.4566721244
-Original,MSR,fastText,0.648075
-Original,SemEval2012_2,fastText,0.167607025
-Original,8-8-8 OPP,fastText,87.18750004
-Original,8-8-8 Accuracy,fastText,48.05555022
-Original,AP,GloVe,0.4980099503
-Original,BLESS,GloVe,0.558
-Original,Battig,GloVe,0.2663735423
-Original,ESSLI_1a,GloVe,0.6954545454
-Original,ESSLI_2b,GloVe,0.77
-Original,ESSLI_2c,GloVe,0.5733333333
-Original,MEN,GloVe,0.5578033283
-Original,MTurk,GloVe,0.5498482815
-Original,RG65,GloVe,0.4542273628
-Original,RW,GloVe,0.2988376632
-Original,SimLex999,GloVe,0.2791492953
-Original,WS353,GloVe,0.4245239998
-Original,WS353R,GloVe,0.4070823946
-Original,WS353S,GloVe,0.5245795937
-Original,Google,GloVe,0.5208555055
-Original,MSR,GloVe,0.43035
-Original,SemEval2012_2,GloVe,0.1252526193
-Original,8-8-8 OPP,GloVe,91.04166667
-Original,8-8-8 Accuracy,GloVe,64.999978
-Original,AP,w2v,0.5417910448
-Original,BLESS,w2v,0.626
-Original,Battig,w2v,0.3326323839
-Original,ESSLI_1a,w2v,0.7272727273
-Original,ESSLI_2b,w2v,0.755
-Original,ESSLI_2c,w2v,0.6044444444
-Original,MEN,w2v,0.6514859434
-Original,MTurk,w2v,0.6222657356
-Original,RG65,w2v,0.6506409097
-Original,RW,w2v,0.3822475644
-Original,SimLex999,w2v,0.3618530573
-Original,WS353,w2v,0.5816539606
-Original,WS353R,w2v,0.5227916614
-Original,WS353S,w2v,0.6643324354
-Original,Google,w2v,0.6364408514
-Original,MSR,w2v,0.520175
-Original,SemEval2012_2,w2v,0.1585291853
-Original,8-8-8 OPP,w2v,90.69444444
-Original,8-8-8 Accuracy,w2v,56.111086
-Debiased,AP,fastText,0.5407960199
-Debiased,BLESS,fastText,0.549
-Debiased,Battig,fastText,0.3019690308
-Debiased,ESSLI_1a,fastText,0.7545454545
-Debiased,ESSLI_2b,fastText,0.795
-Debiased,ESSLI_2c,fastText,0.6311111111
-Debiased,MEN,fastText,0.57157911
-Debiased,MTurk,fastText,0.6246025849
-Debiased,RG65,fastText,0.4903454253
-Debiased,RW,fastText,0.3685465204
-Debiased,SimLex999,fastText,0.3367786229
-Debiased,WS353,fastText,0.4561303868
-Debiased,WS353R,fastText,0.3695813353
-Debiased,WS353S,fastText,0.561065774
-Debiased,Google,fastText,0.4599672534
-Debiased,MSR,fastText,0.650025
-Debiased,SemEval2012_2,fastText,0.1711253582
-Debiased,8-8-8 OPP,fastText,88.26388889
-Debiased,8-8-8 Accuracy,fastText,57.499984
-Debiased,AP,GloVe,0.5243781095
-Debiased,BLESS,GloVe,0.558
-Debiased,Battig,GloVe,0.2713439113
-Debiased,ESSLI_1a,GloVe,0.6545454546
-Debiased,ESSLI_2b,GloVe,0.765
-Debiased,ESSLI_2c,GloVe,0.5688888889
-Debiased,MEN,GloVe,0.6015805405
-Debiased,MTurk,GloVe,0.5743484451
-Debiased,RG65,GloVe,0.5382697188
-Debiased,RW,GloVe,0.3241612334
-Debiased,SimLex999,GloVe,0.3119018275
-Debiased,WS353,GloVe,0.5148607401
-Debiased,WS353R,GloVe,0.5207706269
-Debiased,WS353S,GloVe,0.5810943492
-Debiased,Google,GloVe,0.4826545231
-Debiased,MSR,GloVe,0.380925
-Debiased,SemEval2012_2,GloVe,0.1438864329
-Debiased,8-8-8 OPP,GloVe,90.17361111
-Debiased,8-8-8 Accuracy,GloVe,59.9999986
-Debiased,AP,w2v,0.5527363184
-Debiased,BLESS,w2v,0.632
-Debiased,Battig,w2v,0.3313706748
-Debiased,ESSLI_1a,w2v,0.75
-Debiased,ESSLI_2b,w2v,0.78
-Debiased,ESSLI_2c,w2v,0.6
-Debiased,MEN,w2v,0.6668634697
-Debiased,MTurk,w2v,0.6140082283
-Debiased,RG65,w2v,0.6630765732
-Debiased,RW,w2v,0.3901173994
-Debiased,SimLex999,w2v,0.3676388353
-Debiased,WS353,w2v,0.56350709
-Debiased,WS353R,w2v,0.5066908009
-Debiased,WS353S,w2v,0.6762420663
-Debiased,Google,w2v,0.6418747441
-Debiased,MSR,w2v,0.526825
-Debiased,SemEval2012_2,w2v,0.1573260982
-Debiased,8-8-8 OPP,w2v,91.73611111
-Debiased,8-8-8 Accuracy,w2v,59.7222188
+Embedding,Test,Score
+Original fastText,AP,0.5263681592
+Original fastText,BLESS,0.53
+Original fastText,Battig,0.2969986618
+Original fastText,ESSLI_1a,0.6727272727
+Original fastText,ESSLI_2b,0.73
+Original fastText,ESSLI_2c,0.6133333333
+Original fastText,MEN,0.5688869618
+Original fastText,MTurk,0.6284307799
+Original fastText,RG65,0.4871283257
+Original fastText,RW,0.3263204029
+Original fastText,SimLex999,0.3385642051
+Original fastText,WS353,0.464806244
+Original fastText,WS353R,0.3712226994
+Original fastText,WS353S,0.5626722283
+Original fastText,Google,0.4566721244
+Original fastText,MSR,0.648075
+Original fastText,SemEval2012_2,0.167607025
+Original fastText,8-8-8 OPP,87.18750004
+Original fastText,8-8-8 Accuracy,48.05555022
+Original GloVe,AP,0.4980099503
+Original GloVe,BLESS,0.558
+Original GloVe,Battig,0.2663735423
+Original GloVe,ESSLI_1a,0.6954545454
+Original GloVe,ESSLI_2b,0.77
+Original GloVe,ESSLI_2c,0.5733333333
+Original GloVe,MEN,0.5578033283
+Original GloVe,MTurk,0.5498482815
+Original GloVe,RG65,0.4542273628
+Original GloVe,RW,0.2988376632
+Original GloVe,SimLex999,0.2791492953
+Original GloVe,WS353,0.4245239998
+Original GloVe,WS353R,0.4070823946
+Original GloVe,WS353S,0.5245795937
+Original GloVe,Google,0.5208555055
+Original GloVe,MSR,0.43035
+Original GloVe,SemEval2012_2,0.1252526193
+Original GloVe,8-8-8 OPP,91.04166667
+Original GloVe,8-8-8 Accuracy,64.999978
+Original w2v,AP,0.5417910448
+Original w2v,BLESS,0.626
+Original w2v,Battig,0.3326323839
+Original w2v,ESSLI_1a,0.7272727273
+Original w2v,ESSLI_2b,0.755
+Original w2v,ESSLI_2c,0.6044444444
+Original w2v,MEN,0.6514859434
+Original w2v,MTurk,0.6222657356
+Original w2v,RG65,0.6506409097
+Original w2v,RW,0.3822475644
+Original w2v,SimLex999,0.3618530573
+Original w2v,WS353,0.5816539606
+Original w2v,WS353R,0.5227916614
+Original w2v,WS353S,0.6643324354
+Original w2v,Google,0.6364408514
+Original w2v,MSR,0.520175
+Original w2v,SemEval2012_2,0.1585291853
+Original w2v,8-8-8 OPP,90.69444444
+Original w2v,8-8-8 Accuracy,56.111086
+Debiased fastText,AP,0.5407960199
+Debiased fastText,BLESS,0.549
+Debiased fastText,Battig,0.3019690308
+Debiased fastText,ESSLI_1a,0.7545454545
+Debiased fastText,ESSLI_2b,0.795
+Debiased fastText,ESSLI_2c,0.6311111111
+Debiased fastText,MEN,0.57157911
+Debiased fastText,MTurk,0.6246025849
+Debiased fastText,RG65,0.4903454253
+Debiased fastText,RW,0.3685465204
+Debiased fastText,SimLex999,0.3367786229
+Debiased fastText,WS353,0.4561303868
+Debiased fastText,WS353R,0.3695813353
+Debiased fastText,WS353S,0.561065774
+Debiased fastText,Google,0.4599672534
+Debiased fastText,MSR,0.650025
+Debiased fastText,SemEval2012_2,0.1711253582
+Debiased fastText,8-8-8 OPP,88.26388889
+Debiased fastText,8-8-8 Accuracy,57.499984
+Debiased GloVe,AP,0.5243781095
+Debiased GloVe,BLESS,0.558
+Debiased GloVe,Battig,0.2713439113
+Debiased GloVe,ESSLI_1a,0.6545454546
+Debiased GloVe,ESSLI_2b,0.765
+Debiased GloVe,ESSLI_2c,0.5688888889
+Debiased GloVe,MEN,0.6015805405
+Debiased GloVe,MTurk,0.5743484451
+Debiased GloVe,RG65,0.5382697188
+Debiased GloVe,RW,0.3241612334
+Debiased GloVe,SimLex999,0.3119018275
+Debiased GloVe,WS353,0.5148607401
+Debiased GloVe,WS353R,0.5207706269
+Debiased GloVe,WS353S,0.5810943492
+Debiased GloVe,Google,0.4826545231
+Debiased GloVe,MSR,0.380925
+Debiased GloVe,SemEval2012_2,0.1438864329
+Debiased GloVe,8-8-8 OPP,90.17361111
+Debiased GloVe,8-8-8 Accuracy,59.9999986
+Debiased w2v,AP,0.5527363184
+Debiased w2v,BLESS,0.632
+Debiased w2v,Battig,0.3313706748
+Debiased w2v,ESSLI_1a,0.75
+Debiased w2v,ESSLI_2b,0.78
+Debiased w2v,ESSLI_2c,0.6
+Debiased w2v,MEN,0.6668634697
+Debiased w2v,MTurk,0.6140082283
+Debiased w2v,RG65,0.6630765732
+Debiased w2v,RW,0.3901173994
+Debiased w2v,SimLex999,0.3676388353
+Debiased w2v,WS353,0.56350709
+Debiased w2v,WS353R,0.5066908009
+Debiased w2v,WS353S,0.6762420663
+Debiased w2v,Google,0.6418747441
+Debiased w2v,MSR,0.526825
+Debiased w2v,SemEval2012_2,0.1573260982
+Debiased w2v,8-8-8 OPP,91.73611111
+Debiased w2v,8-8-8 Accuracy,59.7222188

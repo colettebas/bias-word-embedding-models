@@ -1,0 +1,133 @@
+Embedding,Test,Score
+Original fastText,Atheist vs. Evangelical,0
+Original fastText,Climate Change Activist vs. Climate Change Denier,0
+Original fastText,Evil vs. Good,0
+Original fastText,Fair vs. Unfair,0
+Original fastText,Family vs. Career,0
+Original fastText,Female names vs. Male names,1.63324
+Original fastText,Female terms vs. Male terms,1.40626
+Original fastText,Gun Control vs. Gun Rights,0
+Original fastText,Lazy vs. Hard Working,0
+Original fastText,Liberal vs. Conservative,1.1805
+Original fastText,Northern States vs. Southern States,1.62934
+Original fastText,Old people’s names vs. Young people’s names,0
+Original fastText,Peace vs. War,1.08672
+Original fastText,Pro-Immigration vs. Anti-Immigration,0
+Original fastText,Prochoice vs. Prolife,1.05558
+Original fastText,Progressive vs. Moderate,1.24046
+Original fastText,Rich vs. Poor,0
+Original fastText,STEM vs. Arts,0
+Original fastText,Transparent vs. Secretive,0
+Original fastText,Trickle Up Economics vs. Trickle Down Economics,0
+Original fastText,Trust vs. Deceptive,0
+Original fastText,Unpleasant vs. Pleasant,0
+Original GloVe,Atheist vs. Evangelical,0
+Original GloVe,Climate Change Activist vs. Climate Change Denier,0
+Original GloVe,Evil vs. Good,0
+Original GloVe,Fair vs. Unfair,0
+Original GloVe,Family vs. Career,0
+Original GloVe,Female names vs. Male names,0.87098
+Original GloVe,Female terms vs. Male terms,0
+Original GloVe,Gun Control vs. Gun Rights,0.91088
+Original GloVe,Lazy vs. Hard Working,0
+Original GloVe,Liberal vs. Conservative,1.29328
+Original GloVe,Northern States vs. Southern States,1.15036
+Original GloVe,Old people’s names vs. Young people’s names,0
+Original GloVe,Peace vs. War,0
+Original GloVe,Pro-Immigration vs. Anti-Immigration,0
+Original GloVe,Prochoice vs. Prolife,0
+Original GloVe,Progressive vs. Moderate,0
+Original GloVe,Rich vs. Poor,0
+Original GloVe,STEM vs. Arts,0
+Original GloVe,Transparent vs. Secretive,0
+Original GloVe,Trickle Up Economics vs. Trickle Down Economics,0
+Original GloVe,Trust vs. Deceptive,0
+Original GloVe,Unpleasant vs. Pleasant,0
+Original w2v,Atheist vs. Evangelical,1.21166
+Original w2v,Climate Change Activist vs. Climate Change Denier,1.14884
+Original w2v,Evil vs. Good,0
+Original w2v,Fair vs. Unfair,0
+Original w2v,Family vs. Career,0.92712
+Original w2v,Female names vs. Male names,1.3118
+Original w2v,Female terms vs. Male terms,0
+Original w2v,Gun Control vs. Gun Rights,1.32244
+Original w2v,Lazy vs. Hard Working,0
+Original w2v,Liberal vs. Conservative,1.5961
+Original w2v,Northern States vs. Southern States,1.51008
+Original w2v,Old people’s names vs. Young people’s names,0
+Original w2v,Peace vs. War,0
+Original w2v,Pro-Immigration vs. Anti-Immigration,0.78056
+Original w2v,Prochoice vs. Prolife,1.09776
+Original w2v,Progressive vs. Moderate,0
+Original w2v,Rich vs. Poor,0
+Original w2v,STEM vs. Arts,0
+Original w2v,Transparent vs. Secretive,0
+Original w2v,Trickle Up Economics vs. Trickle Down Economics,0.7719
+Original w2v,Trust vs. Deceptive,0
+Original w2v,Unpleasant vs. Pleasant,0
+Debiased fastText,Atheist vs. Evangelical,0
+Debiased fastText,Climate Change Activist vs. Climate Change Denier,0
+Debiased fastText,Evil vs. Good,0
+Debiased fastText,Fair vs. Unfair,0
+Debiased fastText,Family vs. Career,0
+Debiased fastText,Female names vs. Male names,1.0029
+Debiased fastText,Female terms vs. Male terms,1.21556
+Debiased fastText,Gun Control vs. Gun Rights,0
+Debiased fastText,Lazy vs. Hard Working,0
+Debiased fastText,Liberal vs. Conservative,0.91756
+Debiased fastText,Northern States vs. Southern States,1.35326
+Debiased fastText,Old people’s names vs. Young people’s names,0
+Debiased fastText,Peace vs. War,0
+Debiased fastText,Pro-Immigration vs. Anti-Immigration,0
+Debiased fastText,Prochoice vs. Prolife,0
+Debiased fastText,Progressive vs. Moderate,1.01778
+Debiased fastText,Rich vs. Poor,0
+Debiased fastText,STEM vs. Arts,0
+Debiased fastText,Transparent vs. Secretive,0
+Debiased fastText,Trickle Up Economics vs. Trickle Down Economics,0
+Debiased fastText,Trust vs. Deceptive,0
+Debiased fastText,Unpleasant vs. Pleasant,0
+Debiased GloVe,Atheist vs. Evangelical,0
+Debiased GloVe,Climate Change Activist vs. Climate Change Denier,0
+Debiased GloVe,Evil vs. Good,0
+Debiased GloVe,Fair vs. Unfair,0
+Debiased GloVe,Family vs. Career,0
+Debiased GloVe,Female names vs. Male names,0
+Debiased GloVe,Female terms vs. Male terms,0
+Debiased GloVe,Gun Control vs. Gun Rights,0
+Debiased GloVe,Lazy vs. Hard Working,0
+Debiased GloVe,Liberal vs. Conservative,0
+Debiased GloVe,Northern States vs. Southern States,0
+Debiased GloVe,Old people’s names vs. Young people’s names,0
+Debiased GloVe,Peace vs. War,0
+Debiased GloVe,Pro-Immigration vs. Anti-Immigration,0
+Debiased GloVe,Prochoice vs. Prolife,0
+Debiased GloVe,Progressive vs. Moderate,0
+Debiased GloVe,Rich vs. Poor,0
+Debiased GloVe,STEM vs. Arts,0
+Debiased GloVe,Transparent vs. Secretive,0
+Debiased GloVe,Trickle Up Economics vs. Trickle Down Economics,0
+Debiased GloVe,Trust vs. Deceptive,0
+Debiased GloVe,Unpleasant vs. Pleasant,0
+Debiased w2v,Atheist vs. Evangelical,0
+Debiased w2v,Climate Change Activist vs. Climate Change Denier,0.86182
+Debiased w2v,Evil vs. Good,0
+Debiased w2v,Fair vs. Unfair,0
+Debiased w2v,Family vs. Career,0.86748
+Debiased w2v,Female names vs. Male names,1.0217
+Debiased w2v,Female terms vs. Male terms,0.7744
+Debiased w2v,Gun Control vs. Gun Rights,1.17364
+Debiased w2v,Lazy vs. Hard Working,0
+Debiased w2v,Liberal vs. Conservative,0.94506
+Debiased w2v,Northern States vs. Southern States,0.80698
+Debiased w2v,Old people’s names vs. Young people’s names,0
+Debiased w2v,Peace vs. War,0
+Debiased w2v,Pro-Immigration vs. Anti-Immigration,0
+Debiased w2v,Prochoice vs. Prolife,0
+Debiased w2v,Progressive vs. Moderate,0
+Debiased w2v,Rich vs. Poor,0
+Debiased w2v,STEM vs. Arts,0
+Debiased w2v,Transparent vs. Secretive,0
+Debiased w2v,Trickle Up Economics vs. Trickle Down Economics,0
+Debiased w2v,Trust vs. Deceptive,0
+Debiased w2v,Unpleasant vs. Pleasant,0

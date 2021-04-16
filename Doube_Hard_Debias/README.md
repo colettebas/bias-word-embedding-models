@@ -1,3 +1,8 @@
+All code in this directory was originally cloned from the repository from the Double-Hard Debias publication in 2020.
+Minimal changes were made to the GloVe_Debias.ipynb and double_hard_utils.py files in order to accommodate the 
+vocabulary size of this project and the use of political bias.  
+Information from the original publication follows.
+
 ## [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://arxiv.org/abs/2005.00965)
 [Tianlu Wang](http://www.cs.virginia.edu/~tw8cb/), [Xi Victoria Lin](http://victorialin.net/), [Nazneen Fatema Rajani](http://www.nazneenrajani.com/), [Bryan McCann](https://bmccann.github.io/), [Vicente Ordonez](https://www.vicenteordonez.com/), [Caiming Xiong](http://cmxiong.com/)
 
